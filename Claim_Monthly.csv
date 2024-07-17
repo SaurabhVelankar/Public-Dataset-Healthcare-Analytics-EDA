@@ -1,0 +1,2227 @@
+Claim Year,Claim Month,Month,Diagnosis Rollup,Rollup Category,Claim Count
+2011,1,01-01-2011,Acute bronchitis (disorder),Non-Cancer,3
+2011,1,01-01-2011,Alzheimer's disease (disorder),Non-Cancer,3
+2011,1,01-01-2011,Colon Cancer,Cancer,1
+2011,1,01-01-2011,Fetus with unknown complication,Non-Cancer,1
+2011,1,01-01-2011,Hyperlipidemia,Non-Cancer,7
+2011,1,01-01-2011,Lung Cancer (NSCLC),Cancer,2
+2011,1,01-01-2011,Lung Cancer (SCLC),Cancer,1
+2011,1,01-01-2011,Normal pregnancy,Non-Cancer,1
+2011,1,01-01-2011,Unknown,Unknown,66
+2011,1,01-01-2011,Viral sinusitis (disorder),Non-Cancer,1
+2011,2,01-02-2011,Acute bronchitis (disorder),Non-Cancer,1
+2011,2,01-02-2011,Alzheimer's disease (disorder),Non-Cancer,4
+2011,2,01-02-2011,Anemia (disorder),Non-Cancer,1
+2011,2,01-02-2011,Asthma,Non-Cancer,1
+2011,2,01-02-2011,Breast Cancer,Cancer,3
+2011,2,01-02-2011,Chronic congestive heart failure (disorder),Non-Cancer,5
+2011,2,01-02-2011,Colon Cancer,Cancer,1
+2011,2,01-02-2011,Drug overdose,Non-Cancer,1
+2011,2,01-02-2011,Hyperlipidemia,Non-Cancer,8
+2011,2,01-02-2011,Lung Cancer (SCLC),Cancer,1
+2011,2,01-02-2011,Normal pregnancy,Non-Cancer,1
+2011,2,01-02-2011,Primary fibromyalgia syndrome,Non-Cancer,1
+2011,2,01-02-2011,Unknown,Unknown,58
+2011,3,01-03-2011,Acute bronchitis (disorder),Non-Cancer,3
+2011,3,01-03-2011,Acute viral pharyngitis (disorder),Non-Cancer,1
+2011,3,01-03-2011,Alzheimer's disease (disorder),Non-Cancer,1
+2011,3,01-03-2011,Asthma,Non-Cancer,1
+2011,3,01-03-2011,Chronic congestive heart failure (disorder),Non-Cancer,22
+2011,3,01-03-2011,Colon Cancer,Cancer,1
+2011,3,01-03-2011,Fracture of clavicle,Non-Cancer,1
+2011,3,01-03-2011,Hyperlipidemia,Non-Cancer,17
+2011,3,01-03-2011,Lung Cancer (SCLC),Cancer,1
+2011,3,01-03-2011,Normal pregnancy,Non-Cancer,1
+2011,3,01-03-2011,Primary fibromyalgia syndrome,Non-Cancer,1
+2011,3,01-03-2011,Unknown,Unknown,78
+2011,3,01-03-2011,Viral sinusitis (disorder),Non-Cancer,1
+2011,4,01-04-2011,Acute bronchitis (disorder),Non-Cancer,1
+2011,4,01-04-2011,Acute viral pharyngitis (disorder),Non-Cancer,1
+2011,4,01-04-2011,Anemia (disorder),Non-Cancer,1
+2011,4,01-04-2011,Chronic congestive heart failure (disorder),Non-Cancer,24
+2011,4,01-04-2011,Colon Cancer,Cancer,2
+2011,4,01-04-2011,Drug overdose,Non-Cancer,1
+2011,4,01-04-2011,Hyperlipidemia,Non-Cancer,13
+2011,4,01-04-2011,Lung Cancer (SCLC),Cancer,1
+2011,4,01-04-2011,Normal pregnancy,Non-Cancer,3
+2011,4,01-04-2011,Unknown,Unknown,66
+2011,5,01-05-2011,Acute bronchitis (disorder),Non-Cancer,4
+2011,5,01-05-2011,Alzheimer's disease (disorder),Non-Cancer,1
+2011,5,01-05-2011,Chronic congestive heart failure (disorder),Non-Cancer,38
+2011,5,01-05-2011,Colon Cancer,Cancer,1
+2011,5,01-05-2011,Fracture of ankle,Non-Cancer,1
+2011,5,01-05-2011,Fracture of forearm,Non-Cancer,1
+2011,5,01-05-2011,Hyperlipidemia,Non-Cancer,8
+2011,5,01-05-2011,Lung Cancer (SCLC),Cancer,2
+2011,5,01-05-2011,Normal pregnancy,Non-Cancer,2
+2011,5,01-05-2011,Unknown,Unknown,73
+2011,6,01-06-2011,Acute bronchitis (disorder),Non-Cancer,4
+2011,6,01-06-2011,Acute viral pharyngitis (disorder),Non-Cancer,2
+2011,6,01-06-2011,Alzheimer's disease (disorder),Non-Cancer,2
+2011,6,01-06-2011,Anemia (disorder),Non-Cancer,2
+2011,6,01-06-2011,Chronic congestive heart failure (disorder),Non-Cancer,43
+2011,6,01-06-2011,Colon Cancer,Cancer,1
+2011,6,01-06-2011,Hyperlipidemia,Non-Cancer,11
+2011,6,01-06-2011,Lung Cancer (SCLC),Cancer,1
+2011,6,01-06-2011,Normal pregnancy,Non-Cancer,3
+2011,6,01-06-2011,Unknown,Unknown,62
+2011,7,01-07-2011,Acute bronchitis (disorder),Non-Cancer,1
+2011,7,01-07-2011,Alzheimer's disease (disorder),Non-Cancer,2
+2011,7,01-07-2011,Asthma,Non-Cancer,3
+2011,7,01-07-2011,Chronic congestive heart failure (disorder),Non-Cancer,33
+2011,7,01-07-2011,Colon Cancer,Cancer,2
+2011,7,01-07-2011,Drug overdose,Non-Cancer,1
+2011,7,01-07-2011,Hyperlipidemia,Non-Cancer,11
+2011,7,01-07-2011,Localized  primary osteoarthritis of the hand,Non-Cancer,1
+2011,7,01-07-2011,Lung Cancer (NSCLC),Cancer,1
+2011,7,01-07-2011,Lung Cancer (SCLC),Cancer,1
+2011,7,01-07-2011,Normal pregnancy,Non-Cancer,2
+2011,7,01-07-2011,Unknown,Unknown,65
+2011,7,01-07-2011,Viral sinusitis (disorder),Non-Cancer,1
+2011,8,01-08-2011,Alzheimer's disease (disorder),Non-Cancer,1
+2011,8,01-08-2011,Anemia (disorder),Non-Cancer,1
+2011,8,01-08-2011,Asthma,Non-Cancer,2
+2011,8,01-08-2011,Chronic congestive heart failure (disorder),Non-Cancer,25
+2011,8,01-08-2011,Colon Cancer,Cancer,1
+2011,8,01-08-2011,Contact dermatitis,Non-Cancer,1
+2011,8,01-08-2011,Drug overdose,Non-Cancer,1
+2011,8,01-08-2011,Hyperlipidemia,Non-Cancer,12
+2011,8,01-08-2011,Lung Cancer (SCLC),Cancer,1
+2011,8,01-08-2011,Unknown,Unknown,70
+2011,9,01-09-2011,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2011,9,01-09-2011,Acute bronchitis (disorder),Non-Cancer,3
+2011,9,01-09-2011,Acute viral pharyngitis (disorder),Non-Cancer,1
+2011,9,01-09-2011,Bleeding from anus,Non-Cancer,1
+2011,9,01-09-2011,Breast Cancer,Cancer,9
+2011,9,01-09-2011,Chronic congestive heart failure (disorder),Non-Cancer,17
+2011,9,01-09-2011,Colon Cancer,Cancer,3
+2011,9,01-09-2011,Hyperlipidemia,Non-Cancer,14
+2011,9,01-09-2011,Lung Cancer (SCLC),Cancer,1
+2011,9,01-09-2011,Normal pregnancy,Non-Cancer,1
+2011,9,01-09-2011,Unknown,Unknown,72
+2011,9,01-09-2011,Viral sinusitis (disorder),Non-Cancer,1
+2011,10,01-10-2011,Acute bronchitis (disorder),Non-Cancer,1
+2011,10,01-10-2011,Acute viral pharyngitis (disorder),Non-Cancer,1
+2011,10,01-10-2011,Alzheimer's disease (disorder),Non-Cancer,2
+2011,10,01-10-2011,Breast Cancer,Cancer,3
+2011,10,01-10-2011,Chronic congestive heart failure (disorder),Non-Cancer,3
+2011,10,01-10-2011,Colon Cancer,Cancer,2
+2011,10,01-10-2011,Familial Alzheimer's disease of early onset (disorder),Non-Cancer,1
+2011,10,01-10-2011,Fracture of rib,Non-Cancer,1
+2011,10,01-10-2011,Hyperlipidemia,Non-Cancer,7
+2011,10,01-10-2011,Lung Cancer (SCLC),Cancer,2
+2011,10,01-10-2011,Normal pregnancy,Non-Cancer,2
+2011,10,01-10-2011,Osteoarthritis of knee,Non-Cancer,1
+2011,10,01-10-2011,Sepsis (disorder),Non-Cancer,1
+2011,10,01-10-2011,Sinusitis (disorder),Non-Cancer,1
+2011,10,01-10-2011,Unknown,Unknown,55
+2011,10,01-10-2011,Viral sinusitis (disorder),Non-Cancer,1
+2011,11,01-11-2011,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2011,11,01-11-2011,Acute bronchitis (disorder),Non-Cancer,2
+2011,11,01-11-2011,Acute viral pharyngitis (disorder),Non-Cancer,1
+2011,11,01-11-2011,Alzheimer's disease (disorder),Non-Cancer,2
+2011,11,01-11-2011,Chronic congestive heart failure (disorder),Non-Cancer,1
+2011,11,01-11-2011,Chronic pain,Non-Cancer,1
+2011,11,01-11-2011,Colon Cancer,Cancer,3
+2011,11,01-11-2011,Fracture of ankle,Non-Cancer,1
+2011,11,01-11-2011,Hyperlipidemia,Non-Cancer,21
+2011,11,01-11-2011,Localized  primary osteoarthritis of the hand,Non-Cancer,1
+2011,11,01-11-2011,Lung Cancer (SCLC),Cancer,1
+2011,11,01-11-2011,Normal pregnancy,Non-Cancer,2
+2011,11,01-11-2011,Streptococcal sore throat (disorder),Non-Cancer,1
+2011,11,01-11-2011,Unknown,Unknown,61
+2011,11,01-11-2011,Viral sinusitis (disorder),Non-Cancer,1
+2011,12,01-12-2011,Acute bacterial sinusitis (disorder),Non-Cancer,2
+2011,12,01-12-2011,Acute bronchitis (disorder),Non-Cancer,2
+2011,12,01-12-2011,Acute viral pharyngitis (disorder),Non-Cancer,1
+2011,12,01-12-2011,Alzheimer's disease (disorder),Non-Cancer,1
+2011,12,01-12-2011,Breast Cancer,Cancer,3
+2011,12,01-12-2011,Chronic congestive heart failure (disorder),Non-Cancer,15
+2011,12,01-12-2011,Colon Cancer,Cancer,2
+2011,12,01-12-2011,Drug overdose,Non-Cancer,1
+2011,12,01-12-2011,Familial Alzheimer's disease of early onset (disorder),Non-Cancer,1
+2011,12,01-12-2011,Hyperlipidemia,Non-Cancer,14
+2011,12,01-12-2011,Lung Cancer (SCLC),Cancer,1
+2011,12,01-12-2011,Normal pregnancy,Non-Cancer,2
+2011,12,01-12-2011,Sinusitis (disorder),Non-Cancer,2
+2011,12,01-12-2011,Streptococcal sore throat (disorder),Non-Cancer,1
+2011,12,01-12-2011,Unknown,Unknown,64
+2011,12,01-12-2011,Viral sinusitis (disorder),Non-Cancer,1
+2012,1,01-01-2012,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2012,1,01-01-2012,Acute bronchitis (disorder),Non-Cancer,6
+2012,1,01-01-2012,Alzheimer's disease (disorder),Non-Cancer,1
+2012,1,01-01-2012,Chronic congestive heart failure (disorder),Non-Cancer,15
+2012,1,01-01-2012,Colon Cancer,Cancer,2
+2012,1,01-01-2012,Drug overdose,Non-Cancer,1
+2012,1,01-01-2012,Hyperlipidemia,Non-Cancer,7
+2012,1,01-01-2012,Lung Cancer (SCLC),Cancer,2
+2012,1,01-01-2012,Normal pregnancy,Non-Cancer,5
+2012,1,01-01-2012,Sinusitis (disorder),Non-Cancer,1
+2012,1,01-01-2012,Unknown,Unknown,72
+2012,1,01-01-2012,Viral sinusitis (disorder),Non-Cancer,3
+2012,2,01-02-2012,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2012,2,01-02-2012,Acute bronchitis (disorder),Non-Cancer,3
+2012,2,01-02-2012,Acute viral pharyngitis (disorder),Non-Cancer,3
+2012,2,01-02-2012,Alzheimer's disease (disorder),Non-Cancer,1
+2012,2,01-02-2012,Anemia (disorder),Non-Cancer,1
+2012,2,01-02-2012,Asthma,Non-Cancer,1
+2012,2,01-02-2012,Breast Cancer,Cancer,3
+2012,2,01-02-2012,Chronic congestive heart failure (disorder),Non-Cancer,1
+2012,2,01-02-2012,Colon Cancer,Cancer,1
+2012,2,01-02-2012,Concussion with no loss of consciousness,Non-Cancer,2
+2012,2,01-02-2012,Drug overdose,Non-Cancer,1
+2012,2,01-02-2012,Fracture of clavicle,Non-Cancer,1
+2012,2,01-02-2012,Hyperlipidemia,Non-Cancer,10
+2012,2,01-02-2012,Injury of anterior cruciate ligament,Non-Cancer,1
+2012,2,01-02-2012,Laparoscopic Removal of Gall Bladder,Non-Cancer,1
+2012,2,01-02-2012,Lung Cancer (SCLC),Cancer,1
+2012,2,01-02-2012,Normal pregnancy,Non-Cancer,11
+2012,2,01-02-2012,Streptococcal sore throat (disorder),Non-Cancer,2
+2012,2,01-02-2012,Unknown,Unknown,118
+2012,2,01-02-2012,Viral sinusitis (disorder),Non-Cancer,7
+2012,3,01-03-2012,Acute bronchitis (disorder),Non-Cancer,3
+2012,3,01-03-2012,Acute viral pharyngitis (disorder),Non-Cancer,2
+2012,3,01-03-2012,Alzheimer's disease (disorder),Non-Cancer,2
+2012,3,01-03-2012,Asthma,Non-Cancer,1
+2012,3,01-03-2012,Breast Cancer,Cancer,2
+2012,3,01-03-2012,Chronic congestive heart failure (disorder),Non-Cancer,1
+2012,3,01-03-2012,Closed fracture of hip,Non-Cancer,1
+2012,3,01-03-2012,Colon Cancer,Cancer,1
+2012,3,01-03-2012,Escherichia coli urinary tract infection,Non-Cancer,1
+2012,3,01-03-2012,Fetus with chromosomal abnormality,Non-Cancer,1
+2012,3,01-03-2012,Fracture subluxation of wrist,Non-Cancer,1
+2012,3,01-03-2012,Hyperlipidemia,Non-Cancer,17
+2012,3,01-03-2012,Injury of medial collateral ligament of knee,Non-Cancer,1
+2012,3,01-03-2012,Lung Cancer (SCLC),Cancer,1
+2012,3,01-03-2012,Normal pregnancy,Non-Cancer,16
+2012,3,01-03-2012,Rheumatoid arthritis,Non-Cancer,1
+2012,3,01-03-2012,Streptococcal sore throat (disorder),Non-Cancer,1
+2012,3,01-03-2012,Unknown,Unknown,128
+2012,3,01-03-2012,Viral sinusitis (disorder),Non-Cancer,2
+2012,4,01-04-2012,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2012,4,01-04-2012,Acute bronchitis (disorder),Non-Cancer,3
+2012,4,01-04-2012,Acute viral pharyngitis (disorder),Non-Cancer,4
+2012,4,01-04-2012,Breast Cancer,Cancer,4
+2012,4,01-04-2012,Chronic congestive heart failure (disorder),Non-Cancer,2
+2012,4,01-04-2012,Escherichia coli urinary tract infection,Non-Cancer,1
+2012,4,01-04-2012,Fracture of ankle,Non-Cancer,1
+2012,4,01-04-2012,Hyperlipidemia,Non-Cancer,12
+2012,4,01-04-2012,Idiopathic atrophic hypothyroidism,Non-Cancer,2
+2012,4,01-04-2012,Injury of anterior cruciate ligament,Non-Cancer,1
+2012,4,01-04-2012,Laparoscopic Removal of Gall Bladder,Non-Cancer,1
+2012,4,01-04-2012,Lung Cancer (SCLC),Cancer,1
+2012,4,01-04-2012,Normal pregnancy,Non-Cancer,15
+2012,4,01-04-2012,Prostate Cancer,Cancer,1
+2012,4,01-04-2012,Sinusitis (disorder),Non-Cancer,1
+2012,4,01-04-2012,Streptococcal sore throat (disorder),Non-Cancer,3
+2012,4,01-04-2012,Unknown,Unknown,134
+2012,4,01-04-2012,Viral sinusitis (disorder),Non-Cancer,5
+2012,5,01-05-2012,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2012,5,01-05-2012,Acute bronchitis (disorder),Non-Cancer,4
+2012,5,01-05-2012,Acute viral pharyngitis (disorder),Non-Cancer,5
+2012,5,01-05-2012,Alzheimer's disease (disorder),Non-Cancer,1
+2012,5,01-05-2012,Asthma,Non-Cancer,1
+2012,5,01-05-2012,Breast Cancer,Cancer,4
+2012,5,01-05-2012,Drug overdose,Non-Cancer,2
+2012,5,01-05-2012,First degree burn,Non-Cancer,1
+2012,5,01-05-2012,Fracture of clavicle,Non-Cancer,1
+2012,5,01-05-2012,Fracture of forearm,Non-Cancer,2
+2012,5,01-05-2012,Hyperlipidemia,Non-Cancer,9
+2012,5,01-05-2012,Lung Cancer (SCLC),Cancer,1
+2012,5,01-05-2012,Normal pregnancy,Non-Cancer,15
+2012,5,01-05-2012,Prostate Cancer,Cancer,1
+2012,5,01-05-2012,Second degree burn,Non-Cancer,1
+2012,5,01-05-2012,Sinusitis (disorder),Non-Cancer,4
+2012,5,01-05-2012,Unknown,Unknown,142
+2012,5,01-05-2012,Viral sinusitis (disorder),Non-Cancer,8
+2012,6,01-06-2012,Acute bronchitis (disorder),Non-Cancer,5
+2012,6,01-06-2012,Acute viral pharyngitis (disorder),Non-Cancer,6
+2012,6,01-06-2012,Alzheimer's disease (disorder),Non-Cancer,1
+2012,6,01-06-2012,Asthma,Non-Cancer,1
+2012,6,01-06-2012,Breast Cancer,Cancer,4
+2012,6,01-06-2012,Drug overdose,Non-Cancer,2
+2012,6,01-06-2012,First degree burn,Non-Cancer,1
+2012,6,01-06-2012,Fracture of clavicle,Non-Cancer,1
+2012,6,01-06-2012,Hyperlipidemia,Non-Cancer,10
+2012,6,01-06-2012,Lung Cancer (SCLC),Cancer,2
+2012,6,01-06-2012,Normal pregnancy,Non-Cancer,18
+2012,6,01-06-2012,Osteoarthritis of knee,Non-Cancer,1
+2012,6,01-06-2012,Streptococcal sore throat (disorder),Non-Cancer,1
+2012,6,01-06-2012,Unknown,Unknown,117
+2012,6,01-06-2012,Viral sinusitis (disorder),Non-Cancer,5
+2012,7,01-07-2012,Acute bronchitis (disorder),Non-Cancer,2
+2012,7,01-07-2012,Acute viral pharyngitis (disorder),Non-Cancer,6
+2012,7,01-07-2012,Alzheimer's disease (disorder),Non-Cancer,3
+2012,7,01-07-2012,Asthma,Non-Cancer,2
+2012,7,01-07-2012,Blighted ovum,Non-Cancer,1
+2012,7,01-07-2012,Breast Cancer,Cancer,5
+2012,7,01-07-2012,Concussion with no loss of consciousness,Non-Cancer,1
+2012,7,01-07-2012,Fetus with chromosomal abnormality,Non-Cancer,1
+2012,7,01-07-2012,Fetus with unknown complication,Non-Cancer,1
+2012,7,01-07-2012,Hyperlipidemia,Non-Cancer,11
+2012,7,01-07-2012,Lung Cancer (SCLC),Cancer,1
+2012,7,01-07-2012,Normal pregnancy,Non-Cancer,12
+2012,7,01-07-2012,Prostate Cancer,Cancer,1
+2012,7,01-07-2012,Sinusitis (disorder),Non-Cancer,1
+2012,7,01-07-2012,Stroke,Non-Cancer,1
+2012,7,01-07-2012,Unknown,Unknown,124
+2012,7,01-07-2012,Viral sinusitis (disorder),Non-Cancer,8
+2012,8,01-08-2012,Acute bronchitis (disorder),Non-Cancer,2
+2012,8,01-08-2012,Acute viral pharyngitis (disorder),Non-Cancer,3
+2012,8,01-08-2012,Alzheimer's disease (disorder),Non-Cancer,1
+2012,8,01-08-2012,Asthma,Non-Cancer,1
+2012,8,01-08-2012,Breast Cancer,Cancer,7
+2012,8,01-08-2012,Chronic congestive heart failure (disorder),Non-Cancer,2
+2012,8,01-08-2012,Drug overdose,Non-Cancer,3
+2012,8,01-08-2012,Fetus with unknown complication,Non-Cancer,1
+2012,8,01-08-2012,Hyperlipidemia,Non-Cancer,12
+2012,8,01-08-2012,Lung Cancer (SCLC),Cancer,1
+2012,8,01-08-2012,Normal pregnancy,Non-Cancer,12
+2012,8,01-08-2012,Sinusitis (disorder),Non-Cancer,1
+2012,8,01-08-2012,Unknown,Unknown,124
+2012,8,01-08-2012,Viral sinusitis (disorder),Non-Cancer,7
+2012,9,01-09-2012,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2012,9,01-09-2012,Acute bronchitis (disorder),Non-Cancer,4
+2012,9,01-09-2012,Acute viral pharyngitis (disorder),Non-Cancer,3
+2012,9,01-09-2012,Asthma,Non-Cancer,2
+2012,9,01-09-2012,Breast Cancer,Cancer,7
+2012,9,01-09-2012,Chronic congestive heart failure (disorder),Non-Cancer,3
+2012,9,01-09-2012,Drug overdose,Non-Cancer,2
+2012,9,01-09-2012,Fracture of ankle,Non-Cancer,1
+2012,9,01-09-2012,Hyperlipidemia,Non-Cancer,14
+2012,9,01-09-2012,Lung Cancer (SCLC),Cancer,2
+2012,9,01-09-2012,Normal pregnancy,Non-Cancer,12
+2012,9,01-09-2012,Osteoarthritis of hip,Non-Cancer,1
+2012,9,01-09-2012,Streptococcal sore throat (disorder),Non-Cancer,1
+2012,9,01-09-2012,Unknown,Unknown,113
+2012,9,01-09-2012,Viral sinusitis (disorder),Non-Cancer,10
+2012,10,01-10-2012,Acute bronchitis (disorder),Non-Cancer,1
+2012,10,01-10-2012,Acute viral pharyngitis (disorder),Non-Cancer,3
+2012,10,01-10-2012,Breast Cancer,Cancer,6
+2012,10,01-10-2012,Bullet wound,Non-Cancer,1
+2012,10,01-10-2012,Chronic congestive heart failure (disorder),Non-Cancer,1
+2012,10,01-10-2012,Colon Cancer,Cancer,1
+2012,10,01-10-2012,Hyperlipidemia,Non-Cancer,8
+2012,10,01-10-2012,Lung Cancer (SCLC),Cancer,1
+2012,10,01-10-2012,Normal pregnancy,Non-Cancer,5
+2012,10,01-10-2012,Osteoarthritis of hip,Non-Cancer,1
+2012,10,01-10-2012,Unknown,Unknown,129
+2012,10,01-10-2012,Viral sinusitis (disorder),Non-Cancer,7
+2012,11,01-11-2012,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2012,11,01-11-2012,Acute viral pharyngitis (disorder),Non-Cancer,1
+2012,11,01-11-2012,Alzheimer's disease (disorder),Non-Cancer,2
+2012,11,01-11-2012,Asthma,Non-Cancer,1
+2012,11,01-11-2012,Breast Cancer,Cancer,13
+2012,11,01-11-2012,Chronic congestive heart failure (disorder),Non-Cancer,2
+2012,11,01-11-2012,Concussion with no loss of consciousness,Non-Cancer,1
+2012,11,01-11-2012,Fracture of forearm,Non-Cancer,1
+2012,11,01-11-2012,Hyperlipidemia,Non-Cancer,19
+2012,11,01-11-2012,Lung Cancer (SCLC),Cancer,1
+2012,11,01-11-2012,Normal pregnancy,Non-Cancer,8
+2012,11,01-11-2012,Osteoarthritis of knee,Non-Cancer,1
+2012,11,01-11-2012,Unknown,Unknown,125
+2012,11,01-11-2012,Viral sinusitis (disorder),Non-Cancer,5
+2012,12,01-12-2012,Acute bronchitis (disorder),Non-Cancer,2
+2012,12,01-12-2012,Acute viral pharyngitis (disorder),Non-Cancer,4
+2012,12,01-12-2012,Alzheimer's disease (disorder),Non-Cancer,2
+2012,12,01-12-2012,Anemia (disorder),Non-Cancer,2
+2012,12,01-12-2012,Breast Cancer,Cancer,8
+2012,12,01-12-2012,Fracture of rib,Non-Cancer,1
+2012,12,01-12-2012,Fracture subluxation of wrist,Non-Cancer,1
+2012,12,01-12-2012,Hyperlipidemia,Non-Cancer,13
+2012,12,01-12-2012,Lung Cancer (SCLC),Cancer,2
+2012,12,01-12-2012,Normal pregnancy,Non-Cancer,12
+2012,12,01-12-2012,Osteoarthritis of hip,Non-Cancer,1
+2012,12,01-12-2012,Streptococcal sore throat (disorder),Non-Cancer,2
+2012,12,01-12-2012,Unknown,Unknown,132
+2012,12,01-12-2012,Viral sinusitis (disorder),Non-Cancer,6
+2013,1,01-01-2013,Acute bronchitis (disorder),Non-Cancer,4
+2013,1,01-01-2013,Acute viral pharyngitis (disorder),Non-Cancer,4
+2013,1,01-01-2013,Alzheimer's disease (disorder),Non-Cancer,3
+2013,1,01-01-2013,Asthma,Non-Cancer,1
+2013,1,01-01-2013,Breast Cancer,Cancer,9
+2013,1,01-01-2013,Closed fracture of hip,Non-Cancer,1
+2013,1,01-01-2013,Colon Cancer,Cancer,1
+2013,1,01-01-2013,Hyperlipidemia,Non-Cancer,7
+2013,1,01-01-2013,Lung Cancer (SCLC),Cancer,1
+2013,1,01-01-2013,Normal pregnancy,Non-Cancer,11
+2013,1,01-01-2013,Streptococcal sore throat (disorder),Non-Cancer,1
+2013,1,01-01-2013,Unknown,Unknown,110
+2013,1,01-01-2013,Viral sinusitis (disorder),Non-Cancer,3
+2013,2,01-02-2013,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2013,2,01-02-2013,Acute bronchitis (disorder),Non-Cancer,3
+2013,2,01-02-2013,Acute viral pharyngitis (disorder),Non-Cancer,2
+2013,2,01-02-2013,Asthma,Non-Cancer,2
+2013,2,01-02-2013,Breast Cancer,Cancer,5
+2013,2,01-02-2013,Chronic congestive heart failure (disorder),Non-Cancer,12
+2013,2,01-02-2013,Drug overdose,Non-Cancer,2
+2013,2,01-02-2013,Fracture of clavicle,Non-Cancer,2
+2013,2,01-02-2013,Hyperlipidemia,Non-Cancer,10
+2013,2,01-02-2013,Lung Cancer (SCLC),Cancer,1
+2013,2,01-02-2013,Normal pregnancy,Non-Cancer,12
+2013,2,01-02-2013,Sinusitis (disorder),Non-Cancer,2
+2013,2,01-02-2013,Unknown,Unknown,110
+2013,2,01-02-2013,Viral sinusitis (disorder),Non-Cancer,8
+2013,3,01-03-2013,Acute bronchitis (disorder),Non-Cancer,5
+2013,3,01-03-2013,Acute viral pharyngitis (disorder),Non-Cancer,5
+2013,3,01-03-2013,Asthma,Non-Cancer,1
+2013,3,01-03-2013,Breast Cancer,Cancer,1
+2013,3,01-03-2013,Chronic congestive heart failure (disorder),Non-Cancer,31
+2013,3,01-03-2013,Colon Cancer,Cancer,3
+2013,3,01-03-2013,Fracture of ankle,Non-Cancer,1
+2013,3,01-03-2013,Fracture subluxation of wrist,Non-Cancer,1
+2013,3,01-03-2013,Hyperlipidemia,Non-Cancer,16
+2013,3,01-03-2013,Lung Cancer (SCLC),Cancer,1
+2013,3,01-03-2013,Normal pregnancy,Non-Cancer,14
+2013,3,01-03-2013,Sinusitis (disorder),Non-Cancer,2
+2013,3,01-03-2013,Unknown,Unknown,149
+2013,3,01-03-2013,Viral sinusitis (disorder),Non-Cancer,10
+2013,4,01-04-2013,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2013,4,01-04-2013,Acute bronchitis (disorder),Non-Cancer,2
+2013,4,01-04-2013,Acute viral pharyngitis (disorder),Non-Cancer,4
+2013,4,01-04-2013,Alzheimer's disease (disorder),Non-Cancer,2
+2013,4,01-04-2013,Anemia (disorder),Non-Cancer,1
+2013,4,01-04-2013,Breast Cancer,Cancer,1
+2013,4,01-04-2013,Chronic congestive heart failure (disorder),Non-Cancer,41
+2013,4,01-04-2013,Colon Cancer,Cancer,2
+2013,4,01-04-2013,Drug overdose,Non-Cancer,1
+2013,4,01-04-2013,Fetus with unknown complication,Non-Cancer,1
+2013,4,01-04-2013,Fracture of forearm,Non-Cancer,1
+2013,4,01-04-2013,Fracture subluxation of wrist,Non-Cancer,2
+2013,4,01-04-2013,Hyperlipidemia,Non-Cancer,13
+2013,4,01-04-2013,Injury of tendon of the rotator cuff of shoulder,Non-Cancer,1
+2013,4,01-04-2013,Lung Cancer (SCLC),Cancer,1
+2013,4,01-04-2013,Normal pregnancy,Non-Cancer,11
+2013,4,01-04-2013,Sinusitis (disorder),Non-Cancer,2
+2013,4,01-04-2013,Streptococcal sore throat (disorder),Non-Cancer,1
+2013,4,01-04-2013,Unknown,Unknown,134
+2013,4,01-04-2013,Viral sinusitis (disorder),Non-Cancer,6
+2013,5,01-05-2013,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2013,5,01-05-2013,Acute bronchitis (disorder),Non-Cancer,2
+2013,5,01-05-2013,Acute viral pharyngitis (disorder),Non-Cancer,5
+2013,5,01-05-2013,Alzheimer's disease (disorder),Non-Cancer,2
+2013,5,01-05-2013,Breast Cancer,Cancer,6
+2013,5,01-05-2013,Chronic congestive heart failure (disorder),Non-Cancer,42
+2013,5,01-05-2013,Colon Cancer,Cancer,2
+2013,5,01-05-2013,Drug overdose,Non-Cancer,1
+2013,5,01-05-2013,Hyperlipidemia,Non-Cancer,9
+2013,5,01-05-2013,Lung Cancer (NSCLC),Cancer,1
+2013,5,01-05-2013,Lung Cancer (SCLC),Cancer,2
+2013,5,01-05-2013,Normal pregnancy,Non-Cancer,16
+2013,5,01-05-2013,Primary fibromyalgia syndrome,Non-Cancer,1
+2013,5,01-05-2013,Unknown,Unknown,137
+2013,5,01-05-2013,Viral sinusitis (disorder),Non-Cancer,10
+2013,6,01-06-2013,Acute bronchitis (disorder),Non-Cancer,3
+2013,6,01-06-2013,Acute viral pharyngitis (disorder),Non-Cancer,4
+2013,6,01-06-2013,Alzheimer's disease (disorder),Non-Cancer,2
+2013,6,01-06-2013,Anemia (disorder),Non-Cancer,2
+2013,6,01-06-2013,Breast Cancer,Cancer,5
+2013,6,01-06-2013,Chronic congestive heart failure (disorder),Non-Cancer,37
+2013,6,01-06-2013,Colon Cancer,Cancer,1
+2013,6,01-06-2013,Drug overdose,Non-Cancer,2
+2013,6,01-06-2013,Escherichia coli urinary tract infection,Non-Cancer,2
+2013,6,01-06-2013,Fetus with unknown complication,Non-Cancer,1
+2013,6,01-06-2013,Fracture of forearm,Non-Cancer,1
+2013,6,01-06-2013,Fracture subluxation of wrist,Non-Cancer,1
+2013,6,01-06-2013,Hyperlipidemia,Non-Cancer,10
+2013,6,01-06-2013,Injury of tendon of the rotator cuff of shoulder,Non-Cancer,1
+2013,6,01-06-2013,Lung Cancer,Cancer,2
+2013,6,01-06-2013,Lung Cancer (NSCLC),Cancer,3
+2013,6,01-06-2013,Lung Cancer (SCLC),Cancer,1
+2013,6,01-06-2013,Normal pregnancy,Non-Cancer,20
+2013,6,01-06-2013,Streptococcal sore throat (disorder),Non-Cancer,2
+2013,6,01-06-2013,Unknown,Unknown,141
+2013,6,01-06-2013,Viral sinusitis (disorder),Non-Cancer,5
+2013,7,01-07-2013,Acute bronchitis (disorder),Non-Cancer,4
+2013,7,01-07-2013,Acute viral pharyngitis (disorder),Non-Cancer,3
+2013,7,01-07-2013,Alzheimer's disease (disorder),Non-Cancer,2
+2013,7,01-07-2013,Anemia (disorder),Non-Cancer,1
+2013,7,01-07-2013,Asthma,Non-Cancer,1
+2013,7,01-07-2013,Breast Cancer,Cancer,4
+2013,7,01-07-2013,Chronic congestive heart failure (disorder),Non-Cancer,18
+2013,7,01-07-2013,Colon Cancer,Cancer,1
+2013,7,01-07-2013,Cystitis,Non-Cancer,1
+2013,7,01-07-2013,Familial Alzheimer's disease of early onset (disorder),Non-Cancer,1
+2013,7,01-07-2013,Fracture subluxation of wrist,Non-Cancer,1
+2013,7,01-07-2013,Hyperlipidemia,Non-Cancer,11
+2013,7,01-07-2013,Lung Cancer (SCLC),Cancer,1
+2013,7,01-07-2013,Normal pregnancy,Non-Cancer,12
+2013,7,01-07-2013,Pneumonia,Non-Cancer,1
+2013,7,01-07-2013,Streptococcal sore throat (disorder),Non-Cancer,1
+2013,7,01-07-2013,Unknown,Unknown,139
+2013,7,01-07-2013,Viral sinusitis (disorder),Non-Cancer,8
+2013,8,01-08-2013,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2013,8,01-08-2013,Acute bronchitis (disorder),Non-Cancer,3
+2013,8,01-08-2013,Acute viral pharyngitis (disorder),Non-Cancer,4
+2013,8,01-08-2013,Alzheimer's disease (disorder),Non-Cancer,1
+2013,8,01-08-2013,Breast Cancer,Cancer,4
+2013,8,01-08-2013,Chronic congestive heart failure (disorder),Non-Cancer,3
+2013,8,01-08-2013,Colon Cancer,Cancer,1
+2013,8,01-08-2013,Familial Alzheimer's disease of early onset (disorder),Non-Cancer,1
+2013,8,01-08-2013,Fracture of ankle,Non-Cancer,1
+2013,8,01-08-2013,Hyperlipidemia,Non-Cancer,14
+2013,8,01-08-2013,Lung Cancer,Cancer,2
+2013,8,01-08-2013,Lung Cancer (NSCLC),Cancer,2
+2013,8,01-08-2013,Lung Cancer (SCLC),Cancer,2
+2013,8,01-08-2013,Normal pregnancy,Non-Cancer,14
+2013,8,01-08-2013,Primary fibromyalgia syndrome,Non-Cancer,1
+2013,8,01-08-2013,Sepsis (disorder),Non-Cancer,1
+2013,8,01-08-2013,Unknown,Unknown,143
+2013,8,01-08-2013,Viral sinusitis (disorder),Non-Cancer,11
+2013,9,01-09-2013,Acute bronchitis (disorder),Non-Cancer,3
+2013,9,01-09-2013,Acute viral pharyngitis (disorder),Non-Cancer,2
+2013,9,01-09-2013,Anemia (disorder),Non-Cancer,1
+2013,9,01-09-2013,Asthma,Non-Cancer,1
+2013,9,01-09-2013,Breast Cancer,Cancer,3
+2013,9,01-09-2013,Colon Cancer,Cancer,1
+2013,9,01-09-2013,Drug overdose,Non-Cancer,2
+2013,9,01-09-2013,Familial Alzheimer's disease of early onset (disorder),Non-Cancer,1
+2013,9,01-09-2013,Fetus with chromosomal abnormality,Non-Cancer,1
+2013,9,01-09-2013,Fetus with unknown complication,Non-Cancer,1
+2013,9,01-09-2013,First degree burn,Non-Cancer,1
+2013,9,01-09-2013,Hyperlipidemia,Non-Cancer,13
+2013,9,01-09-2013,Lung Cancer (SCLC),Cancer,1
+2013,9,01-09-2013,Normal pregnancy,Non-Cancer,15
+2013,9,01-09-2013,Osteoarthritis of knee,Non-Cancer,1
+2013,9,01-09-2013,Pneumonia,Non-Cancer,1
+2013,9,01-09-2013,Sinusitis (disorder),Non-Cancer,1
+2013,9,01-09-2013,Unknown,Unknown,129
+2013,9,01-09-2013,Viral sinusitis (disorder),Non-Cancer,10
+2013,10,01-10-2013,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2013,10,01-10-2013,Acute bronchitis (disorder),Non-Cancer,6
+2013,10,01-10-2013,Alzheimer's disease (disorder),Non-Cancer,2
+2013,10,01-10-2013,Anemia (disorder),Non-Cancer,3
+2013,10,01-10-2013,Blighted ovum,Non-Cancer,1
+2013,10,01-10-2013,Breast Cancer,Cancer,22
+2013,10,01-10-2013,Chronic congestive heart failure (disorder),Non-Cancer,2
+2013,10,01-10-2013,Drug overdose,Non-Cancer,1
+2013,10,01-10-2013,Escherichia coli urinary tract infection,Non-Cancer,1
+2013,10,01-10-2013,Fracture of rib,Non-Cancer,1
+2013,10,01-10-2013,Hyperlipidemia,Non-Cancer,8
+2013,10,01-10-2013,Lung Cancer (SCLC),Cancer,1
+2013,10,01-10-2013,Normal pregnancy,Non-Cancer,19
+2013,10,01-10-2013,Streptococcal sore throat (disorder),Non-Cancer,1
+2013,10,01-10-2013,Unknown,Unknown,130
+2013,10,01-10-2013,Viral sinusitis (disorder),Non-Cancer,7
+2013,11,01-11-2013,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2013,11,01-11-2013,Acute bronchitis (disorder),Non-Cancer,5
+2013,11,01-11-2013,Acute viral pharyngitis (disorder),Non-Cancer,2
+2013,11,01-11-2013,Alzheimer's disease (disorder),Non-Cancer,1
+2013,11,01-11-2013,Asthma,Non-Cancer,2
+2013,11,01-11-2013,Breast Cancer,Cancer,11
+2013,11,01-11-2013,Chronic congestive heart failure (disorder),Non-Cancer,3
+2013,11,01-11-2013,Drug overdose,Non-Cancer,1
+2013,11,01-11-2013,Fracture of clavicle,Non-Cancer,1
+2013,11,01-11-2013,Fracture of forearm,Non-Cancer,1
+2013,11,01-11-2013,Hyperlipidemia,Non-Cancer,20
+2013,11,01-11-2013,Injury of anterior cruciate ligament,Non-Cancer,1
+2013,11,01-11-2013,Lung Cancer (SCLC),Cancer,1
+2013,11,01-11-2013,Normal pregnancy,Non-Cancer,9
+2013,11,01-11-2013,Unknown,Unknown,144
+2013,11,01-11-2013,Viral sinusitis (disorder),Non-Cancer,3
+2013,12,01-12-2013,Acute bacterial sinusitis (disorder),Non-Cancer,2
+2013,12,01-12-2013,Acute bronchitis (disorder),Non-Cancer,2
+2013,12,01-12-2013,Acute viral pharyngitis (disorder),Non-Cancer,1
+2013,12,01-12-2013,Alzheimer's disease (disorder),Non-Cancer,3
+2013,12,01-12-2013,Asthma,Non-Cancer,3
+2013,12,01-12-2013,Breast Cancer,Cancer,3
+2013,12,01-12-2013,Drug overdose,Non-Cancer,1
+2013,12,01-12-2013,Fetus with unknown complication,Non-Cancer,1
+2013,12,01-12-2013,Fracture of ankle,Non-Cancer,1
+2013,12,01-12-2013,Hyperlipidemia,Non-Cancer,14
+2013,12,01-12-2013,Lung Cancer,Cancer,2
+2013,12,01-12-2013,Lung Cancer (SCLC),Cancer,2
+2013,12,01-12-2013,Normal pregnancy,Non-Cancer,8
+2013,12,01-12-2013,Prostate Cancer,Cancer,1
+2013,12,01-12-2013,Sinusitis (disorder),Non-Cancer,2
+2013,12,01-12-2013,Unknown,Unknown,150
+2013,12,01-12-2013,Viral sinusitis (disorder),Non-Cancer,1
+2014,1,01-01-2014,Acute bronchitis (disorder),Non-Cancer,1
+2014,1,01-01-2014,Acute viral pharyngitis (disorder),Non-Cancer,3
+2014,1,01-01-2014,Alzheimer's disease (disorder),Non-Cancer,1
+2014,1,01-01-2014,Breast Cancer,Cancer,6
+2014,1,01-01-2014,Bullet wound,Non-Cancer,1
+2014,1,01-01-2014,Chronic congestive heart failure (disorder),Non-Cancer,3
+2014,1,01-01-2014,Closed fracture of hip,Non-Cancer,1
+2014,1,01-01-2014,Concussion with loss of consciousness,Non-Cancer,1
+2014,1,01-01-2014,Cystitis,Non-Cancer,1
+2014,1,01-01-2014,Drug overdose,Non-Cancer,1
+2014,1,01-01-2014,Fracture of forearm,Non-Cancer,2
+2014,1,01-01-2014,Hyperlipidemia,Non-Cancer,7
+2014,1,01-01-2014,Impacted molars,Non-Cancer,1
+2014,1,01-01-2014,Lung Cancer (NSCLC),Cancer,3
+2014,1,01-01-2014,Lung Cancer (SCLC),Cancer,1
+2014,1,01-01-2014,Normal pregnancy,Non-Cancer,9
+2014,1,01-01-2014,Polyp of colon,Non-Cancer,1
+2014,1,01-01-2014,Sinusitis (disorder),Non-Cancer,1
+2014,1,01-01-2014,Unknown,Unknown,161
+2014,1,01-01-2014,Viral sinusitis (disorder),Non-Cancer,5
+2014,2,01-02-2014,Acute Cholecystitis,Non-Cancer,1
+2014,2,01-02-2014,Acute bronchitis (disorder),Non-Cancer,1
+2014,2,01-02-2014,Alzheimer's disease (disorder),Non-Cancer,2
+2014,2,01-02-2014,Anemia (disorder),Non-Cancer,1
+2014,2,01-02-2014,Asthma,Non-Cancer,5
+2014,2,01-02-2014,Breast Cancer,Cancer,2
+2014,2,01-02-2014,Chronic congestive heart failure (disorder),Non-Cancer,18
+2014,2,01-02-2014,Drug overdose,Non-Cancer,2
+2014,2,01-02-2014,Fetus with unknown complication,Non-Cancer,1
+2014,2,01-02-2014,Hyperlipidemia,Non-Cancer,9
+2014,2,01-02-2014,Laparoscopic Removal of Gall Bladder,Non-Cancer,1
+2014,2,01-02-2014,Lung Cancer (SCLC),Cancer,1
+2014,2,01-02-2014,Normal pregnancy,Non-Cancer,13
+2014,2,01-02-2014,Primary fibromyalgia syndrome,Non-Cancer,1
+2014,2,01-02-2014,Streptococcal sore throat (disorder),Non-Cancer,1
+2014,2,01-02-2014,Unknown,Unknown,1115
+2014,2,01-02-2014,Viral sinusitis (disorder),Non-Cancer,5
+2014,3,01-03-2014,Acute bronchitis (disorder),Non-Cancer,3
+2014,3,01-03-2014,Acute viral pharyngitis (disorder),Non-Cancer,5
+2014,3,01-03-2014,Alzheimer's disease (disorder),Non-Cancer,1
+2014,3,01-03-2014,Asthma,Non-Cancer,1
+2014,3,01-03-2014,Chronic congestive heart failure (disorder),Non-Cancer,13
+2014,3,01-03-2014,Concussion with no loss of consciousness,Non-Cancer,1
+2014,3,01-03-2014,Drug overdose,Non-Cancer,2
+2014,3,01-03-2014,Hyperlipidemia,Non-Cancer,17
+2014,3,01-03-2014,Impacted molars,Non-Cancer,1
+2014,3,01-03-2014,Lung Cancer (SCLC),Cancer,1
+2014,3,01-03-2014,Normal pregnancy,Non-Cancer,16
+2014,3,01-03-2014,Opioid abuse (disorder),Non-Cancer,2
+2014,3,01-03-2014,Otitis media,Non-Cancer,1
+2014,3,01-03-2014,Prostate Cancer,Cancer,1
+2014,3,01-03-2014,Sinusitis (disorder),Non-Cancer,1
+2014,3,01-03-2014,Streptococcal sore throat (disorder),Non-Cancer,1
+2014,3,01-03-2014,Unknown,Unknown,384
+2014,3,01-03-2014,Viral sinusitis (disorder),Non-Cancer,5
+2014,4,01-04-2014,Acute bronchitis (disorder),Non-Cancer,2
+2014,4,01-04-2014,Acute viral pharyngitis (disorder),Non-Cancer,4
+2014,4,01-04-2014,Alzheimer's disease (disorder),Non-Cancer,2
+2014,4,01-04-2014,Blighted ovum,Non-Cancer,1
+2014,4,01-04-2014,Breast Cancer,Cancer,1
+2014,4,01-04-2014,Chronic congestive heart failure (disorder),Non-Cancer,2
+2014,4,01-04-2014,Closed fracture of hip,Non-Cancer,1
+2014,4,01-04-2014,Colon Cancer,Cancer,2
+2014,4,01-04-2014,Drug overdose,Non-Cancer,2
+2014,4,01-04-2014,Fracture of ankle,Non-Cancer,1
+2014,4,01-04-2014,Fracture of forearm,Non-Cancer,1
+2014,4,01-04-2014,Hyperlipidemia,Non-Cancer,12
+2014,4,01-04-2014,Lung Cancer (SCLC),Cancer,2
+2014,4,01-04-2014,Normal pregnancy,Non-Cancer,13
+2014,4,01-04-2014,Opioid abuse (disorder),Non-Cancer,2
+2014,4,01-04-2014,Prostate Cancer,Cancer,1
+2014,4,01-04-2014,Rheumatoid arthritis,Non-Cancer,1
+2014,4,01-04-2014,Second degree burn,Non-Cancer,1
+2014,4,01-04-2014,Sinusitis (disorder),Non-Cancer,3
+2014,4,01-04-2014,Unknown,Unknown,162
+2014,4,01-04-2014,Viral sinusitis (disorder),Non-Cancer,4
+2014,5,01-05-2014,Acute bronchitis (disorder),Non-Cancer,3
+2014,5,01-05-2014,Acute viral pharyngitis (disorder),Non-Cancer,5
+2014,5,01-05-2014,Alzheimer's disease (disorder),Non-Cancer,1
+2014,5,01-05-2014,Asthma,Non-Cancer,2
+2014,5,01-05-2014,Breast Cancer,Cancer,10
+2014,5,01-05-2014,Chronic congestive heart failure (disorder),Non-Cancer,1
+2014,5,01-05-2014,Colon Cancer,Cancer,1
+2014,5,01-05-2014,Drug overdose,Non-Cancer,2
+2014,5,01-05-2014,Escherichia coli urinary tract infection,Non-Cancer,1
+2014,5,01-05-2014,Familial Alzheimer's disease of early onset (disorder),Non-Cancer,1
+2014,5,01-05-2014,Fetus with unknown complication,Non-Cancer,1
+2014,5,01-05-2014,Hyperlipidemia,Non-Cancer,9
+2014,5,01-05-2014,Lung Cancer (SCLC),Cancer,1
+2014,5,01-05-2014,Normal pregnancy,Non-Cancer,14
+2014,5,01-05-2014,Opioid abuse (disorder),Non-Cancer,4
+2014,5,01-05-2014,Sinusitis (disorder),Non-Cancer,6
+2014,5,01-05-2014,Unknown,Unknown,180
+2014,5,01-05-2014,Viral sinusitis (disorder),Non-Cancer,7
+2014,6,01-06-2014,Acute bronchitis (disorder),Non-Cancer,4
+2014,6,01-06-2014,Acute viral pharyngitis (disorder),Non-Cancer,5
+2014,6,01-06-2014,Alzheimer's disease (disorder),Non-Cancer,1
+2014,6,01-06-2014,Anemia (disorder),Non-Cancer,1
+2014,6,01-06-2014,Asthma,Non-Cancer,3
+2014,6,01-06-2014,Breast Cancer,Cancer,6
+2014,6,01-06-2014,Colon Cancer,Cancer,1
+2014,6,01-06-2014,Concussion with no loss of consciousness,Non-Cancer,1
+2014,6,01-06-2014,Drug overdose,Non-Cancer,1
+2014,6,01-06-2014,Escherichia coli urinary tract infection,Non-Cancer,1
+2014,6,01-06-2014,First degree burn,Non-Cancer,1
+2014,6,01-06-2014,Fracture of forearm,Non-Cancer,1
+2014,6,01-06-2014,Hyperlipidemia,Non-Cancer,10
+2014,6,01-06-2014,Injury of anterior cruciate ligament,Non-Cancer,1
+2014,6,01-06-2014,Lung Cancer (SCLC),Cancer,1
+2014,6,01-06-2014,Normal pregnancy,Non-Cancer,9
+2014,6,01-06-2014,Opioid abuse (disorder),Non-Cancer,5
+2014,6,01-06-2014,Prostate Cancer,Cancer,1
+2014,6,01-06-2014,Sinusitis (disorder),Non-Cancer,1
+2014,6,01-06-2014,Unknown,Unknown,164
+2014,6,01-06-2014,Viral sinusitis (disorder),Non-Cancer,6
+2014,7,01-07-2014,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2014,7,01-07-2014,Acute bronchitis (disorder),Non-Cancer,1
+2014,7,01-07-2014,Acute viral pharyngitis (disorder),Non-Cancer,3
+2014,7,01-07-2014,Alzheimer's disease (disorder),Non-Cancer,2
+2014,7,01-07-2014,Anemia (disorder),Non-Cancer,4
+2014,7,01-07-2014,Breast Cancer,Cancer,6
+2014,7,01-07-2014,Colon Cancer,Cancer,1
+2014,7,01-07-2014,Cystitis,Non-Cancer,1
+2014,7,01-07-2014,Hyperlipidemia,Non-Cancer,12
+2014,7,01-07-2014,Injury of tendon of the rotator cuff of shoulder,Non-Cancer,1
+2014,7,01-07-2014,Lung Cancer (SCLC),Cancer,1
+2014,7,01-07-2014,Normal pregnancy,Non-Cancer,12
+2014,7,01-07-2014,Opioid abuse (disorder),Non-Cancer,3
+2014,7,01-07-2014,Otitis media,Non-Cancer,1
+2014,7,01-07-2014,Prostate Cancer,Cancer,1
+2014,7,01-07-2014,Sinusitis (disorder),Non-Cancer,2
+2014,7,01-07-2014,Unknown,Unknown,139
+2014,7,01-07-2014,Viral sinusitis (disorder),Non-Cancer,6
+2014,8,01-08-2014,Acute bacterial sinusitis (disorder),Non-Cancer,2
+2014,8,01-08-2014,Acute bronchitis (disorder),Non-Cancer,5
+2014,8,01-08-2014,Acute viral pharyngitis (disorder),Non-Cancer,5
+2014,8,01-08-2014,Alzheimer's disease (disorder),Non-Cancer,1
+2014,8,01-08-2014,Anemia (disorder),Non-Cancer,3
+2014,8,01-08-2014,Breast Cancer,Cancer,4
+2014,8,01-08-2014,Colon Cancer,Cancer,1
+2014,8,01-08-2014,Fracture of forearm,Non-Cancer,1
+2014,8,01-08-2014,Hyperlipidemia,Non-Cancer,14
+2014,8,01-08-2014,Injury of anterior cruciate ligament,Non-Cancer,1
+2014,8,01-08-2014,Injury of tendon of the rotator cuff of shoulder,Non-Cancer,1
+2014,8,01-08-2014,Lung Cancer,Cancer,1
+2014,8,01-08-2014,Lung Cancer (SCLC),Cancer,1
+2014,8,01-08-2014,Normal pregnancy,Non-Cancer,13
+2014,8,01-08-2014,Opioid abuse (disorder),Non-Cancer,4
+2014,8,01-08-2014,Sinusitis (disorder),Non-Cancer,1
+2014,8,01-08-2014,Streptococcal sore throat (disorder),Non-Cancer,1
+2014,8,01-08-2014,Unknown,Unknown,149
+2014,8,01-08-2014,Viral sinusitis (disorder),Non-Cancer,10
+2014,9,01-09-2014,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2014,9,01-09-2014,Acute bronchitis (disorder),Non-Cancer,2
+2014,9,01-09-2014,Acute viral pharyngitis (disorder),Non-Cancer,2
+2014,9,01-09-2014,Alzheimer's disease (disorder),Non-Cancer,1
+2014,9,01-09-2014,Asthma,Non-Cancer,2
+2014,9,01-09-2014,Breast Cancer,Cancer,8
+2014,9,01-09-2014,Bullet wound,Non-Cancer,1
+2014,9,01-09-2014,Chronic congestive heart failure (disorder),Non-Cancer,13
+2014,9,01-09-2014,Colon Cancer,Cancer,3
+2014,9,01-09-2014,Drug overdose,Non-Cancer,2
+2014,9,01-09-2014,Fetus with unknown complication,Non-Cancer,1
+2014,9,01-09-2014,Hyperlipidemia,Non-Cancer,13
+2014,9,01-09-2014,Injury of tendon of the rotator cuff of shoulder,Non-Cancer,1
+2014,9,01-09-2014,Lung Cancer,Cancer,1
+2014,9,01-09-2014,Lung Cancer (NSCLC),Cancer,2
+2014,9,01-09-2014,Normal pregnancy,Non-Cancer,15
+2014,9,01-09-2014,Opioid abuse (disorder),Non-Cancer,2
+2014,9,01-09-2014,Rheumatoid arthritis,Non-Cancer,1
+2014,9,01-09-2014,Sinusitis (disorder),Non-Cancer,1
+2014,9,01-09-2014,Unknown,Unknown,147
+2014,9,01-09-2014,Viral sinusitis (disorder),Non-Cancer,6
+2014,10,01-10-2014,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2014,10,01-10-2014,Acute bronchitis (disorder),Non-Cancer,3
+2014,10,01-10-2014,Acute viral pharyngitis (disorder),Non-Cancer,1
+2014,10,01-10-2014,Alzheimer's disease (disorder),Non-Cancer,4
+2014,10,01-10-2014,Asthma,Non-Cancer,1
+2014,10,01-10-2014,Breast Cancer,Cancer,15
+2014,10,01-10-2014,Chronic congestive heart failure (disorder),Non-Cancer,30
+2014,10,01-10-2014,Colon Cancer,Cancer,2
+2014,10,01-10-2014,Concussion with no loss of consciousness,Non-Cancer,2
+2014,10,01-10-2014,Drug overdose,Non-Cancer,1
+2014,10,01-10-2014,Hyperlipidemia,Non-Cancer,8
+2014,10,01-10-2014,Injury of tendon of the rotator cuff of shoulder,Non-Cancer,1
+2014,10,01-10-2014,Normal pregnancy,Non-Cancer,17
+2014,10,01-10-2014,Opioid abuse (disorder),Non-Cancer,1
+2014,10,01-10-2014,Sinusitis (disorder),Non-Cancer,2
+2014,10,01-10-2014,Streptococcal sore throat (disorder),Non-Cancer,1
+2014,10,01-10-2014,Unknown,Unknown,137
+2014,10,01-10-2014,Viral sinusitis (disorder),Non-Cancer,5
+2014,11,01-11-2014,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2014,11,01-11-2014,Acute bronchitis (disorder),Non-Cancer,1
+2014,11,01-11-2014,Acute viral pharyngitis (disorder),Non-Cancer,6
+2014,11,01-11-2014,Alzheimer's disease (disorder),Non-Cancer,1
+2014,11,01-11-2014,Breast Cancer,Cancer,16
+2014,11,01-11-2014,Chronic congestive heart failure (disorder),Non-Cancer,31
+2014,11,01-11-2014,Colon Cancer,Cancer,1
+2014,11,01-11-2014,Fracture subluxation of wrist,Non-Cancer,1
+2014,11,01-11-2014,Hyperlipidemia,Non-Cancer,20
+2014,11,01-11-2014,Normal pregnancy,Non-Cancer,19
+2014,11,01-11-2014,Opioid abuse (disorder),Non-Cancer,2
+2014,11,01-11-2014,Sinusitis (disorder),Non-Cancer,1
+2014,11,01-11-2014,Streptococcal sore throat (disorder),Non-Cancer,1
+2014,11,01-11-2014,Unknown,Unknown,135
+2014,11,01-11-2014,Viral sinusitis (disorder),Non-Cancer,5
+2014,12,01-12-2014,Acute bronchitis (disorder),Non-Cancer,3
+2014,12,01-12-2014,Acute viral pharyngitis (disorder),Non-Cancer,6
+2014,12,01-12-2014,Alzheimer's disease (disorder),Non-Cancer,1
+2014,12,01-12-2014,Asthma,Non-Cancer,3
+2014,12,01-12-2014,Breast Cancer,Cancer,3
+2014,12,01-12-2014,Chronic congestive heart failure (disorder),Non-Cancer,19
+2014,12,01-12-2014,Colon Cancer,Cancer,1
+2014,12,01-12-2014,Drug overdose,Non-Cancer,1
+2014,12,01-12-2014,Escherichia coli urinary tract infection,Non-Cancer,1
+2014,12,01-12-2014,First degree burn,Non-Cancer,1
+2014,12,01-12-2014,Fracture of forearm,Non-Cancer,1
+2014,12,01-12-2014,Hyperlipidemia,Non-Cancer,14
+2014,12,01-12-2014,Lung Cancer,Cancer,2
+2014,12,01-12-2014,Lung Cancer (NSCLC),Cancer,2
+2014,12,01-12-2014,Normal pregnancy,Non-Cancer,17
+2014,12,01-12-2014,Opioid abuse (disorder),Non-Cancer,1
+2014,12,01-12-2014,Rheumatoid arthritis,Non-Cancer,1
+2014,12,01-12-2014,Sinusitis (disorder),Non-Cancer,2
+2014,12,01-12-2014,Unknown,Unknown,147
+2014,12,01-12-2014,Viral sinusitis (disorder),Non-Cancer,8
+2015,1,01-01-2015,Acute bronchitis (disorder),Non-Cancer,2
+2015,1,01-01-2015,Acute viral pharyngitis (disorder),Non-Cancer,2
+2015,1,01-01-2015,Alzheimer's disease (disorder),Non-Cancer,3
+2015,1,01-01-2015,Anemia (disorder),Non-Cancer,2
+2015,1,01-01-2015,Breast Cancer,Cancer,8
+2015,1,01-01-2015,Chronic congestive heart failure (disorder),Non-Cancer,16
+2015,1,01-01-2015,Colon Cancer,Cancer,1
+2015,1,01-01-2015,Drug overdose,Non-Cancer,2
+2015,1,01-01-2015,Hyperlipidemia,Non-Cancer,7
+2015,1,01-01-2015,Normal pregnancy,Non-Cancer,12
+2015,1,01-01-2015,Opioid abuse (disorder),Non-Cancer,1
+2015,1,01-01-2015,Osteoarthritis of hip,Non-Cancer,1
+2015,1,01-01-2015,Primary fibromyalgia syndrome,Non-Cancer,1
+2015,1,01-01-2015,Sinusitis (disorder),Non-Cancer,2
+2015,1,01-01-2015,Streptococcal sore throat (disorder),Non-Cancer,2
+2015,1,01-01-2015,Unknown,Unknown,137
+2015,1,01-01-2015,Viral sinusitis (disorder),Non-Cancer,11
+2015,2,01-02-2015,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2015,2,01-02-2015,Acute bronchitis (disorder),Non-Cancer,3
+2015,2,01-02-2015,Acute viral pharyngitis (disorder),Non-Cancer,7
+2015,2,01-02-2015,Asthma,Non-Cancer,1
+2015,2,01-02-2015,Breast Cancer,Cancer,1
+2015,2,01-02-2015,Chronic congestive heart failure (disorder),Non-Cancer,16
+2015,2,01-02-2015,Colon Cancer,Cancer,2
+2015,2,01-02-2015,Familial Alzheimer's disease of early onset (disorder),Non-Cancer,1
+2015,2,01-02-2015,Hyperlipidemia,Non-Cancer,9
+2015,2,01-02-2015,Normal pregnancy,Non-Cancer,15
+2015,2,01-02-2015,Opioid abuse (disorder),Non-Cancer,1
+2015,2,01-02-2015,Osteoarthritis of knee,Non-Cancer,1
+2015,2,01-02-2015,Streptococcal sore throat (disorder),Non-Cancer,1
+2015,2,01-02-2015,Unknown,Unknown,139
+2015,2,01-02-2015,Viral sinusitis (disorder),Non-Cancer,2
+2015,3,01-03-2015,Acute bronchitis (disorder),Non-Cancer,3
+2015,3,01-03-2015,Acute viral pharyngitis (disorder),Non-Cancer,4
+2015,3,01-03-2015,Anemia (disorder),Non-Cancer,1
+2015,3,01-03-2015,Asthma,Non-Cancer,1
+2015,3,01-03-2015,Breast Cancer,Cancer,1
+2015,3,01-03-2015,Chronic congestive heart failure (disorder),Non-Cancer,22
+2015,3,01-03-2015,Colon Cancer,Cancer,1
+2015,3,01-03-2015,Concussion with no loss of consciousness,Non-Cancer,1
+2015,3,01-03-2015,Fetus with unknown complication,Non-Cancer,1
+2015,3,01-03-2015,Hyperlipidemia,Non-Cancer,17
+2015,3,01-03-2015,Injury of medial collateral ligament of knee,Non-Cancer,1
+2015,3,01-03-2015,Normal pregnancy,Non-Cancer,17
+2015,3,01-03-2015,Second degree burn,Non-Cancer,1
+2015,3,01-03-2015,Unknown,Unknown,145
+2015,3,01-03-2015,Viral sinusitis (disorder),Non-Cancer,3
+2015,4,01-04-2015,Acute viral pharyngitis (disorder),Non-Cancer,3
+2015,4,01-04-2015,Alzheimer's disease (disorder),Non-Cancer,1
+2015,4,01-04-2015,Breast Cancer,Cancer,9
+2015,4,01-04-2015,Chronic congestive heart failure (disorder),Non-Cancer,5
+2015,4,01-04-2015,Drug overdose,Non-Cancer,1
+2015,4,01-04-2015,Hyperlipidemia,Non-Cancer,12
+2015,4,01-04-2015,Normal pregnancy,Non-Cancer,18
+2015,4,01-04-2015,Rupture of patellar tendon,Non-Cancer,1
+2015,4,01-04-2015,Streptococcal sore throat (disorder),Non-Cancer,1
+2015,4,01-04-2015,Unknown,Unknown,141
+2015,4,01-04-2015,Viral sinusitis (disorder),Non-Cancer,7
+2015,5,01-05-2015,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2015,5,01-05-2015,Acute bronchitis (disorder),Non-Cancer,4
+2015,5,01-05-2015,Acute viral pharyngitis (disorder),Non-Cancer,7
+2015,5,01-05-2015,Alzheimer's disease (disorder),Non-Cancer,2
+2015,5,01-05-2015,Breast Cancer,Cancer,4
+2015,5,01-05-2015,Chronic congestive heart failure (disorder),Non-Cancer,1
+2015,5,01-05-2015,Colon Cancer,Cancer,1
+2015,5,01-05-2015,Drug overdose,Non-Cancer,1
+2015,5,01-05-2015,Fracture of clavicle,Non-Cancer,1
+2015,5,01-05-2015,Fracture of forearm,Non-Cancer,2
+2015,5,01-05-2015,Fracture subluxation of wrist,Non-Cancer,1
+2015,5,01-05-2015,Hyperlipidemia,Non-Cancer,9
+2015,5,01-05-2015,Myocardial Infarction,Non-Cancer,1
+2015,5,01-05-2015,Normal pregnancy,Non-Cancer,17
+2015,5,01-05-2015,Streptococcal sore throat (disorder),Non-Cancer,1
+2015,5,01-05-2015,Unknown,Unknown,146
+2015,5,01-05-2015,Viral sinusitis (disorder),Non-Cancer,6
+2015,6,01-06-2015,Acute bronchitis (disorder),Non-Cancer,4
+2015,6,01-06-2015,Acute viral pharyngitis (disorder),Non-Cancer,2
+2015,6,01-06-2015,Alzheimer's disease (disorder),Non-Cancer,1
+2015,6,01-06-2015,Asthma,Non-Cancer,1
+2015,6,01-06-2015,Breast Cancer,Cancer,1
+2015,6,01-06-2015,Drug overdose,Non-Cancer,2
+2015,6,01-06-2015,Fetus with unknown complication,Non-Cancer,1
+2015,6,01-06-2015,Fracture subluxation of wrist,Non-Cancer,1
+2015,6,01-06-2015,Hyperlipidemia,Non-Cancer,13
+2015,6,01-06-2015,Normal pregnancy,Non-Cancer,14
+2015,6,01-06-2015,Sinusitis (disorder),Non-Cancer,1
+2015,6,01-06-2015,Unknown,Unknown,141
+2015,6,01-06-2015,Viral sinusitis (disorder),Non-Cancer,3
+2015,7,01-07-2015,Acute bronchitis (disorder),Non-Cancer,6
+2015,7,01-07-2015,Acute viral pharyngitis (disorder),Non-Cancer,4
+2015,7,01-07-2015,Alzheimer's disease (disorder),Non-Cancer,2
+2015,7,01-07-2015,Breast Cancer,Cancer,6
+2015,7,01-07-2015,Concussion with no loss of consciousness,Non-Cancer,1
+2015,7,01-07-2015,Fracture of forearm,Non-Cancer,1
+2015,7,01-07-2015,Hyperlipidemia,Non-Cancer,12
+2015,7,01-07-2015,Normal pregnancy,Non-Cancer,13
+2015,7,01-07-2015,Sinusitis (disorder),Non-Cancer,2
+2015,7,01-07-2015,Unknown,Unknown,143
+2015,7,01-07-2015,Viral sinusitis (disorder),Non-Cancer,5
+2015,8,01-08-2015,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2015,8,01-08-2015,Acute bronchitis (disorder),Non-Cancer,2
+2015,8,01-08-2015,Alzheimer's disease (disorder),Non-Cancer,4
+2015,8,01-08-2015,Anemia (disorder),Non-Cancer,1
+2015,8,01-08-2015,Appendicitis,Non-Cancer,2
+2015,8,01-08-2015,Bleeding from anus,Non-Cancer,1
+2015,8,01-08-2015,Breast Cancer,Cancer,1
+2015,8,01-08-2015,Chronic congestive heart failure (disorder),Non-Cancer,1
+2015,8,01-08-2015,Colon Cancer,Cancer,2
+2015,8,01-08-2015,First degree burn,Non-Cancer,1
+2015,8,01-08-2015,Fracture of ankle,Non-Cancer,2
+2015,8,01-08-2015,Hyperlipidemia,Non-Cancer,14
+2015,8,01-08-2015,Idiopathic atrophic hypothyroidism,Non-Cancer,1
+2015,8,01-08-2015,Localized  primary osteoarthritis of the hand,Non-Cancer,1
+2015,8,01-08-2015,Normal pregnancy,Non-Cancer,12
+2015,8,01-08-2015,Sinusitis (disorder),Non-Cancer,1
+2015,8,01-08-2015,Streptococcal sore throat (disorder),Non-Cancer,1
+2015,8,01-08-2015,Unknown,Unknown,137
+2015,8,01-08-2015,Viral sinusitis (disorder),Non-Cancer,7
+2015,9,01-09-2015,Acute bronchitis (disorder),Non-Cancer,2
+2015,9,01-09-2015,Acute viral pharyngitis (disorder),Non-Cancer,7
+2015,9,01-09-2015,Alzheimer's disease (disorder),Non-Cancer,1
+2015,9,01-09-2015,Asthma,Non-Cancer,2
+2015,9,01-09-2015,Breast Cancer,Cancer,9
+2015,9,01-09-2015,Chronic congestive heart failure (disorder),Non-Cancer,1
+2015,9,01-09-2015,Colon Cancer,Cancer,1
+2015,9,01-09-2015,Concussion with no loss of consciousness,Non-Cancer,2
+2015,9,01-09-2015,Hyperlipidemia,Non-Cancer,13
+2015,9,01-09-2015,Idiopathic atrophic hypothyroidism,Non-Cancer,1
+2015,9,01-09-2015,Injury of tendon of the rotator cuff of shoulder,Non-Cancer,1
+2015,9,01-09-2015,Normal pregnancy,Non-Cancer,15
+2015,9,01-09-2015,Osteoarthritis of knee,Non-Cancer,1
+2015,9,01-09-2015,Sinusitis (disorder),Non-Cancer,5
+2015,9,01-09-2015,Unknown,Unknown,141
+2015,9,01-09-2015,Viral sinusitis (disorder),Non-Cancer,5
+2015,10,01-10-2015,Acute bronchitis (disorder),Non-Cancer,2
+2015,10,01-10-2015,Acute viral pharyngitis (disorder),Non-Cancer,2
+2015,10,01-10-2015,Alzheimer's disease (disorder),Non-Cancer,1
+2015,10,01-10-2015,Breast Cancer,Cancer,9
+2015,10,01-10-2015,Chronic congestive heart failure (disorder),Non-Cancer,23
+2015,10,01-10-2015,Colon Cancer,Cancer,1
+2015,10,01-10-2015,Concussion with loss of consciousness,Non-Cancer,1
+2015,10,01-10-2015,Drug overdose,Non-Cancer,1
+2015,10,01-10-2015,Hyperlipidemia,Non-Cancer,7
+2015,10,01-10-2015,Normal pregnancy,Non-Cancer,13
+2015,10,01-10-2015,Sinusitis (disorder),Non-Cancer,3
+2015,10,01-10-2015,Streptococcal sore throat (disorder),Non-Cancer,1
+2015,10,01-10-2015,Unknown,Unknown,129
+2015,10,01-10-2015,Viral sinusitis (disorder),Non-Cancer,9
+2015,11,01-11-2015,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2015,11,01-11-2015,Acute bronchitis (disorder),Non-Cancer,2
+2015,11,01-11-2015,Acute viral pharyngitis (disorder),Non-Cancer,6
+2015,11,01-11-2015,Alzheimer's disease (disorder),Non-Cancer,2
+2015,11,01-11-2015,Asthma,Non-Cancer,2
+2015,11,01-11-2015,Breast Cancer,Cancer,15
+2015,11,01-11-2015,Chronic congestive heart failure (disorder),Non-Cancer,19
+2015,11,01-11-2015,Closed fracture of hip,Non-Cancer,1
+2015,11,01-11-2015,Colon Cancer,Cancer,1
+2015,11,01-11-2015,Drug overdose,Non-Cancer,1
+2015,11,01-11-2015,Fracture subluxation of wrist,Non-Cancer,1
+2015,11,01-11-2015,Hyperlipidemia,Non-Cancer,21
+2015,11,01-11-2015,Normal pregnancy,Non-Cancer,9
+2015,11,01-11-2015,Sinusitis (disorder),Non-Cancer,4
+2015,11,01-11-2015,Unknown,Unknown,153
+2015,11,01-11-2015,Viral sinusitis (disorder),Non-Cancer,2
+2015,12,01-12-2015,Acute bronchitis (disorder),Non-Cancer,4
+2015,12,01-12-2015,Acute viral pharyngitis (disorder),Non-Cancer,5
+2015,12,01-12-2015,Alzheimer's disease (disorder),Non-Cancer,3
+2015,12,01-12-2015,Asthma,Non-Cancer,1
+2015,12,01-12-2015,Breast Cancer,Cancer,6
+2015,12,01-12-2015,Chronic congestive heart failure (disorder),Non-Cancer,17
+2015,12,01-12-2015,Colon Cancer,Cancer,1
+2015,12,01-12-2015,Cystitis,Non-Cancer,1
+2015,12,01-12-2015,Fracture of ankle,Non-Cancer,1
+2015,12,01-12-2015,Hyperlipidemia,Non-Cancer,14
+2015,12,01-12-2015,Injury of tendon of the rotator cuff of shoulder,Non-Cancer,1
+2015,12,01-12-2015,Localized  primary osteoarthritis of the hand,Non-Cancer,1
+2015,12,01-12-2015,Normal pregnancy,Non-Cancer,11
+2015,12,01-12-2015,Rheumatoid arthritis,Non-Cancer,1
+2015,12,01-12-2015,Sinusitis (disorder),Non-Cancer,1
+2015,12,01-12-2015,Streptococcal sore throat (disorder),Non-Cancer,1
+2015,12,01-12-2015,Unknown,Unknown,143
+2015,12,01-12-2015,Viral sinusitis (disorder),Non-Cancer,3
+2016,1,01-01-2016,Acute bacterial sinusitis (disorder),Non-Cancer,4
+2016,1,01-01-2016,Acute bronchitis (disorder),Non-Cancer,3
+2016,1,01-01-2016,Acute viral pharyngitis (disorder),Non-Cancer,3
+2016,1,01-01-2016,Alzheimer's disease (disorder),Non-Cancer,2
+2016,1,01-01-2016,Breast Cancer,Cancer,3
+2016,1,01-01-2016,Chronic congestive heart failure (disorder),Non-Cancer,18
+2016,1,01-01-2016,Colon Cancer,Cancer,1
+2016,1,01-01-2016,Escherichia coli urinary tract infection,Non-Cancer,1
+2016,1,01-01-2016,Fracture of ankle,Non-Cancer,1
+2016,1,01-01-2016,Hyperlipidemia,Non-Cancer,7
+2016,1,01-01-2016,Normal pregnancy,Non-Cancer,12
+2016,1,01-01-2016,Osteoarthritis of knee,Non-Cancer,1
+2016,1,01-01-2016,Otitis media,Non-Cancer,1
+2016,1,01-01-2016,Primary fibromyalgia syndrome,Non-Cancer,1
+2016,1,01-01-2016,Second degree burn,Non-Cancer,1
+2016,1,01-01-2016,Sinusitis (disorder),Non-Cancer,2
+2016,1,01-01-2016,Unknown,Unknown,125
+2016,1,01-01-2016,Viral sinusitis (disorder),Non-Cancer,10
+2016,2,01-02-2016,Acute bacterial sinusitis (disorder),Non-Cancer,4
+2016,2,01-02-2016,Acute bronchitis (disorder),Non-Cancer,2
+2016,2,01-02-2016,Acute viral pharyngitis (disorder),Non-Cancer,1
+2016,2,01-02-2016,Anemia (disorder),Non-Cancer,1
+2016,2,01-02-2016,Asthma,Non-Cancer,1
+2016,2,01-02-2016,Breast Cancer,Cancer,4
+2016,2,01-02-2016,Chronic congestive heart failure (disorder),Non-Cancer,21
+2016,2,01-02-2016,Fetus with unknown complication,Non-Cancer,1
+2016,2,01-02-2016,Fracture subluxation of wrist,Non-Cancer,1
+2016,2,01-02-2016,Hyperlipidemia,Non-Cancer,9
+2016,2,01-02-2016,Localized  primary osteoarthritis of the hand,Non-Cancer,1
+2016,2,01-02-2016,Normal pregnancy,Non-Cancer,7
+2016,2,01-02-2016,Otitis media,Non-Cancer,1
+2016,2,01-02-2016,Sinusitis (disorder),Non-Cancer,1
+2016,2,01-02-2016,Streptococcal sore throat (disorder),Non-Cancer,1
+2016,2,01-02-2016,Unknown,Unknown,141
+2016,2,01-02-2016,Viral sinusitis (disorder),Non-Cancer,5
+2016,3,01-03-2016,Acute bacterial sinusitis (disorder),Non-Cancer,2
+2016,3,01-03-2016,Acute bronchitis (disorder),Non-Cancer,1
+2016,3,01-03-2016,Acute viral pharyngitis (disorder),Non-Cancer,4
+2016,3,01-03-2016,Alzheimer's disease (disorder),Non-Cancer,3
+2016,3,01-03-2016,Asthma,Non-Cancer,2
+2016,3,01-03-2016,Breast Cancer,Cancer,3
+2016,3,01-03-2016,Chronic congestive heart failure (disorder),Non-Cancer,22
+2016,3,01-03-2016,Drug overdose,Non-Cancer,2
+2016,3,01-03-2016,Fracture of ankle,Non-Cancer,1
+2016,3,01-03-2016,Fracture of clavicle,Non-Cancer,1
+2016,3,01-03-2016,Hyperlipidemia,Non-Cancer,18
+2016,3,01-03-2016,Normal pregnancy,Non-Cancer,8
+2016,3,01-03-2016,Osteoarthritis of knee,Non-Cancer,1
+2016,3,01-03-2016,Streptococcal sore throat (disorder),Non-Cancer,2
+2016,3,01-03-2016,Unknown,Unknown,136
+2016,3,01-03-2016,Viral sinusitis (disorder),Non-Cancer,5
+2016,4,01-04-2016,Acute bacterial sinusitis (disorder),Non-Cancer,3
+2016,4,01-04-2016,Acute bronchitis (disorder),Non-Cancer,3
+2016,4,01-04-2016,Acute viral pharyngitis (disorder),Non-Cancer,5
+2016,4,01-04-2016,Alzheimer's disease (disorder),Non-Cancer,1
+2016,4,01-04-2016,Anemia (disorder),Non-Cancer,1
+2016,4,01-04-2016,Breast Cancer,Cancer,3
+2016,4,01-04-2016,Chronic congestive heart failure (disorder),Non-Cancer,14
+2016,4,01-04-2016,Chronic pain,Non-Cancer,1
+2016,4,01-04-2016,Colon Cancer,Cancer,1
+2016,4,01-04-2016,First degree burn,Non-Cancer,1
+2016,4,01-04-2016,Fracture subluxation of wrist,Non-Cancer,1
+2016,4,01-04-2016,Hyperlipidemia,Non-Cancer,11
+2016,4,01-04-2016,Normal pregnancy,Non-Cancer,8
+2016,4,01-04-2016,Otitis media,Non-Cancer,1
+2016,4,01-04-2016,Sinusitis (disorder),Non-Cancer,2
+2016,4,01-04-2016,Streptococcal sore throat (disorder),Non-Cancer,1
+2016,4,01-04-2016,Unknown,Unknown,135
+2016,4,01-04-2016,Viral sinusitis (disorder),Non-Cancer,6
+2016,5,01-05-2016,Acute bacterial sinusitis (disorder),Non-Cancer,2
+2016,5,01-05-2016,Acute bronchitis (disorder),Non-Cancer,3
+2016,5,01-05-2016,Acute viral pharyngitis (disorder),Non-Cancer,3
+2016,5,01-05-2016,Asthma,Non-Cancer,2
+2016,5,01-05-2016,Breast Cancer,Cancer,13
+2016,5,01-05-2016,Chronic congestive heart failure (disorder),Non-Cancer,3
+2016,5,01-05-2016,Concussion with no loss of consciousness,Non-Cancer,1
+2016,5,01-05-2016,Drug overdose,Non-Cancer,1
+2016,5,01-05-2016,Escherichia coli urinary tract infection,Non-Cancer,1
+2016,5,01-05-2016,Fracture of clavicle,Non-Cancer,1
+2016,5,01-05-2016,Hyperlipidemia,Non-Cancer,9
+2016,5,01-05-2016,Normal pregnancy,Non-Cancer,5
+2016,5,01-05-2016,Second degree burn,Non-Cancer,1
+2016,5,01-05-2016,Sinusitis (disorder),Non-Cancer,1
+2016,5,01-05-2016,Unknown,Unknown,147
+2016,5,01-05-2016,Viral sinusitis (disorder),Non-Cancer,5
+2016,6,01-06-2016,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2016,6,01-06-2016,Acute bronchitis (disorder),Non-Cancer,2
+2016,6,01-06-2016,Acute viral pharyngitis (disorder),Non-Cancer,3
+2016,6,01-06-2016,Asthma,Non-Cancer,1
+2016,6,01-06-2016,Breast Cancer,Cancer,1
+2016,6,01-06-2016,Fetus with unknown complication,Non-Cancer,1
+2016,6,01-06-2016,Fracture of clavicle,Non-Cancer,1
+2016,6,01-06-2016,Fracture of forearm,Non-Cancer,1
+2016,6,01-06-2016,Hyperlipidemia,Non-Cancer,14
+2016,6,01-06-2016,Normal pregnancy,Non-Cancer,5
+2016,6,01-06-2016,Prostate Cancer,Cancer,1
+2016,6,01-06-2016,Second degree burn,Non-Cancer,1
+2016,6,01-06-2016,Sinusitis (disorder),Non-Cancer,2
+2016,6,01-06-2016,Unknown,Unknown,170
+2016,6,01-06-2016,Viral sinusitis (disorder),Non-Cancer,7
+2016,7,01-07-2016,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2016,7,01-07-2016,Acute bronchitis (disorder),Non-Cancer,2
+2016,7,01-07-2016,Acute viral pharyngitis (disorder),Non-Cancer,1
+2016,7,01-07-2016,Alzheimer's disease (disorder),Non-Cancer,1
+2016,7,01-07-2016,Breast Cancer,Cancer,3
+2016,7,01-07-2016,Drug overdose,Non-Cancer,1
+2016,7,01-07-2016,Escherichia coli urinary tract infection,Non-Cancer,1
+2016,7,01-07-2016,Fracture of forearm,Non-Cancer,1
+2016,7,01-07-2016,Hyperlipidemia,Non-Cancer,13
+2016,7,01-07-2016,Normal pregnancy,Non-Cancer,10
+2016,7,01-07-2016,Unknown,Unknown,141
+2016,7,01-07-2016,Viral sinusitis (disorder),Non-Cancer,11
+2016,8,01-08-2016,Acute bacterial sinusitis (disorder),Non-Cancer,2
+2016,8,01-08-2016,Acute bronchitis (disorder),Non-Cancer,1
+2016,8,01-08-2016,Acute viral pharyngitis (disorder),Non-Cancer,3
+2016,8,01-08-2016,Asthma,Non-Cancer,4
+2016,8,01-08-2016,Breast Cancer,Cancer,1
+2016,8,01-08-2016,Chronic congestive heart failure (disorder),Non-Cancer,1
+2016,8,01-08-2016,Fetus with unknown complication,Non-Cancer,1
+2016,8,01-08-2016,Fracture of clavicle,Non-Cancer,1
+2016,8,01-08-2016,Fracture of forearm,Non-Cancer,2
+2016,8,01-08-2016,Hyperlipidemia,Non-Cancer,12
+2016,8,01-08-2016,Normal pregnancy,Non-Cancer,6
+2016,8,01-08-2016,Prostate Cancer,Cancer,1
+2016,8,01-08-2016,Sinusitis (disorder),Non-Cancer,1
+2016,8,01-08-2016,Streptococcal sore throat (disorder),Non-Cancer,1
+2016,8,01-08-2016,Unknown,Unknown,145
+2016,8,01-08-2016,Viral sinusitis (disorder),Non-Cancer,9
+2016,9,01-09-2016,Acute bacterial sinusitis (disorder),Non-Cancer,3
+2016,9,01-09-2016,Acute bronchitis (disorder),Non-Cancer,11
+2016,9,01-09-2016,Acute viral pharyngitis (disorder),Non-Cancer,6
+2016,9,01-09-2016,Alzheimer's disease (disorder),Non-Cancer,1
+2016,9,01-09-2016,Breast Cancer,Cancer,9
+2016,9,01-09-2016,Chronic congestive heart failure (disorder),Non-Cancer,1
+2016,9,01-09-2016,Closed fracture of hip,Non-Cancer,1
+2016,9,01-09-2016,Concussion with no loss of consciousness,Non-Cancer,1
+2016,9,01-09-2016,Drug overdose,Non-Cancer,1
+2016,9,01-09-2016,First degree burn,Non-Cancer,1
+2016,9,01-09-2016,Fracture of forearm,Non-Cancer,1
+2016,9,01-09-2016,Fracture of rib,Non-Cancer,1
+2016,9,01-09-2016,Fracture subluxation of wrist,Non-Cancer,1
+2016,9,01-09-2016,Hyperlipidemia,Non-Cancer,13
+2016,9,01-09-2016,Idiopathic atrophic hypothyroidism,Non-Cancer,2
+2016,9,01-09-2016,Normal pregnancy,Non-Cancer,10
+2016,9,01-09-2016,Otitis media,Non-Cancer,1
+2016,9,01-09-2016,Sinusitis (disorder),Non-Cancer,2
+2016,9,01-09-2016,Unknown,Unknown,135
+2016,9,01-09-2016,Viral sinusitis (disorder),Non-Cancer,3
+2016,10,01-10-2016,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2016,10,01-10-2016,Acute bronchitis (disorder),Non-Cancer,4
+2016,10,01-10-2016,Acute viral pharyngitis (disorder),Non-Cancer,2
+2016,10,01-10-2016,Alzheimer's disease (disorder),Non-Cancer,4
+2016,10,01-10-2016,Blighted ovum,Non-Cancer,1
+2016,10,01-10-2016,Breast Cancer,Cancer,12
+2016,10,01-10-2016,Chronic congestive heart failure (disorder),Non-Cancer,3
+2016,10,01-10-2016,Concussion with loss of consciousness,Non-Cancer,1
+2016,10,01-10-2016,Cystitis,Non-Cancer,2
+2016,10,01-10-2016,Drug overdose,Non-Cancer,2
+2016,10,01-10-2016,Fetus with unknown complication,Non-Cancer,1
+2016,10,01-10-2016,Fracture of ankle,Non-Cancer,1
+2016,10,01-10-2016,Fracture of clavicle,Non-Cancer,1
+2016,10,01-10-2016,Hyperlipidemia,Non-Cancer,8
+2016,10,01-10-2016,Normal pregnancy,Non-Cancer,11
+2016,10,01-10-2016,Second degree burn,Non-Cancer,1
+2016,10,01-10-2016,Sinusitis (disorder),Non-Cancer,2
+2016,10,01-10-2016,Unknown,Unknown,149
+2016,10,01-10-2016,Viral sinusitis (disorder),Non-Cancer,7
+2016,11,01-11-2016,Acute bronchitis (disorder),Non-Cancer,2
+2016,11,01-11-2016,Acute viral pharyngitis (disorder),Non-Cancer,7
+2016,11,01-11-2016,Alzheimer's disease (disorder),Non-Cancer,1
+2016,11,01-11-2016,Anemia (disorder),Non-Cancer,1
+2016,11,01-11-2016,Breast Cancer,Cancer,11
+2016,11,01-11-2016,Chronic congestive heart failure (disorder),Non-Cancer,4
+2016,11,01-11-2016,Colon Cancer,Cancer,1
+2016,11,01-11-2016,Cystitis,Non-Cancer,1
+2016,11,01-11-2016,Fracture of clavicle,Non-Cancer,1
+2016,11,01-11-2016,Fracture of forearm,Non-Cancer,1
+2016,11,01-11-2016,Hyperlipidemia,Non-Cancer,20
+2016,11,01-11-2016,Normal pregnancy,Non-Cancer,7
+2016,11,01-11-2016,Sinusitis (disorder),Non-Cancer,1
+2016,11,01-11-2016,Unknown,Unknown,164
+2016,11,01-11-2016,Viral sinusitis (disorder),Non-Cancer,6
+2016,12,01-12-2016,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2016,12,01-12-2016,Acute bronchitis (disorder),Non-Cancer,3
+2016,12,01-12-2016,Acute viral pharyngitis (disorder),Non-Cancer,4
+2016,12,01-12-2016,Alzheimer's disease (disorder),Non-Cancer,2
+2016,12,01-12-2016,Anemia (disorder),Non-Cancer,1
+2016,12,01-12-2016,Breast Cancer,Cancer,5
+2016,12,01-12-2016,Chronic congestive heart failure (disorder),Non-Cancer,2
+2016,12,01-12-2016,Drug overdose,Non-Cancer,1
+2016,12,01-12-2016,First degree burn,Non-Cancer,1
+2016,12,01-12-2016,Hyperlipidemia,Non-Cancer,13
+2016,12,01-12-2016,Normal pregnancy,Non-Cancer,6
+2016,12,01-12-2016,Sinusitis (disorder),Non-Cancer,2
+2016,12,01-12-2016,Streptococcal sore throat (disorder),Non-Cancer,1
+2016,12,01-12-2016,Unknown,Unknown,165
+2016,12,01-12-2016,Viral sinusitis (disorder),Non-Cancer,6
+2017,1,01-01-2017,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2017,1,01-01-2017,Acute bronchitis (disorder),Non-Cancer,6
+2017,1,01-01-2017,Acute viral pharyngitis (disorder),Non-Cancer,1
+2017,1,01-01-2017,Alzheimer's disease (disorder),Non-Cancer,1
+2017,1,01-01-2017,Anemia (disorder),Non-Cancer,1
+2017,1,01-01-2017,Asthma,Non-Cancer,1
+2017,1,01-01-2017,Bleeding from anus,Non-Cancer,1
+2017,1,01-01-2017,Blighted ovum,Non-Cancer,1
+2017,1,01-01-2017,Breast Cancer,Cancer,4
+2017,1,01-01-2017,Cardiac Arrest,Non-Cancer,1
+2017,1,01-01-2017,Colon Cancer,Cancer,2
+2017,1,01-01-2017,First degree burn,Non-Cancer,1
+2017,1,01-01-2017,Fracture of clavicle,Non-Cancer,1
+2017,1,01-01-2017,Hyperlipidemia,Non-Cancer,7
+2017,1,01-01-2017,Normal pregnancy,Non-Cancer,10
+2017,1,01-01-2017,Sinusitis (disorder),Non-Cancer,1
+2017,1,01-01-2017,Streptococcal sore throat (disorder),Non-Cancer,2
+2017,1,01-01-2017,Unknown,Unknown,139
+2017,1,01-01-2017,Viral sinusitis (disorder),Non-Cancer,6
+2017,2,01-02-2017,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2017,2,01-02-2017,Acute bronchitis (disorder),Non-Cancer,1
+2017,2,01-02-2017,Acute viral pharyngitis (disorder),Non-Cancer,2
+2017,2,01-02-2017,Alzheimer's disease (disorder),Non-Cancer,1
+2017,2,01-02-2017,Asthma,Non-Cancer,2
+2017,2,01-02-2017,Breast Cancer,Cancer,2
+2017,2,01-02-2017,Chronic congestive heart failure (disorder),Non-Cancer,2
+2017,2,01-02-2017,Closed fracture of hip,Non-Cancer,1
+2017,2,01-02-2017,Colon Cancer,Cancer,1
+2017,2,01-02-2017,Concussion with no loss of consciousness,Non-Cancer,1
+2017,2,01-02-2017,Drug overdose,Non-Cancer,1
+2017,2,01-02-2017,Fetus with unknown complication,Non-Cancer,2
+2017,2,01-02-2017,Hyperlipidemia,Non-Cancer,9
+2017,2,01-02-2017,Myocardial Infarction,Non-Cancer,1
+2017,2,01-02-2017,Normal pregnancy,Non-Cancer,9
+2017,2,01-02-2017,Sinusitis (disorder),Non-Cancer,1
+2017,2,01-02-2017,Stroke,Non-Cancer,1
+2017,2,01-02-2017,Unknown,Unknown,125
+2017,2,01-02-2017,Viral sinusitis (disorder),Non-Cancer,8
+2017,3,01-03-2017,Acute bacterial sinusitis (disorder),Non-Cancer,3
+2017,3,01-03-2017,Acute bronchitis (disorder),Non-Cancer,1
+2017,3,01-03-2017,Acute viral pharyngitis (disorder),Non-Cancer,5
+2017,3,01-03-2017,Alzheimer's disease (disorder),Non-Cancer,1
+2017,3,01-03-2017,Asthma,Non-Cancer,1
+2017,3,01-03-2017,Breast Cancer,Cancer,6
+2017,3,01-03-2017,Chronic congestive heart failure (disorder),Non-Cancer,2
+2017,3,01-03-2017,Closed fracture of hip,Non-Cancer,1
+2017,3,01-03-2017,Colon Cancer,Cancer,1
+2017,3,01-03-2017,Drug overdose,Non-Cancer,1
+2017,3,01-03-2017,Escherichia coli urinary tract infection,Non-Cancer,1
+2017,3,01-03-2017,Fetus with unknown complication,Non-Cancer,1
+2017,3,01-03-2017,Fracture of clavicle,Non-Cancer,1
+2017,3,01-03-2017,Hyperlipidemia,Non-Cancer,18
+2017,3,01-03-2017,Normal pregnancy,Non-Cancer,13
+2017,3,01-03-2017,Streptococcal sore throat (disorder),Non-Cancer,1
+2017,3,01-03-2017,Third degree burn,Non-Cancer,1
+2017,3,01-03-2017,Unknown,Unknown,130
+2017,3,01-03-2017,Viral sinusitis (disorder),Non-Cancer,2
+2017,4,01-04-2017,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2017,4,01-04-2017,Acute bronchitis (disorder),Non-Cancer,6
+2017,4,01-04-2017,Acute viral pharyngitis (disorder),Non-Cancer,5
+2017,4,01-04-2017,Alzheimer's disease (disorder),Non-Cancer,5
+2017,4,01-04-2017,Asthma,Non-Cancer,2
+2017,4,01-04-2017,Breast Cancer,Cancer,9
+2017,4,01-04-2017,Chronic congestive heart failure (disorder),Non-Cancer,1
+2017,4,01-04-2017,Colon Cancer,Cancer,1
+2017,4,01-04-2017,Drug overdose,Non-Cancer,1
+2017,4,01-04-2017,Fracture subluxation of wrist,Non-Cancer,1
+2017,4,01-04-2017,Hyperlipidemia,Non-Cancer,11
+2017,4,01-04-2017,Impacted molars,Non-Cancer,1
+2017,4,01-04-2017,Normal pregnancy,Non-Cancer,10
+2017,4,01-04-2017,Pneumonia,Non-Cancer,1
+2017,4,01-04-2017,Sinusitis (disorder),Non-Cancer,1
+2017,4,01-04-2017,Streptococcal sore throat (disorder),Non-Cancer,1
+2017,4,01-04-2017,Unknown,Unknown,122
+2017,4,01-04-2017,Viral sinusitis (disorder),Non-Cancer,6
+2017,5,01-05-2017,Acute bacterial sinusitis (disorder),Non-Cancer,3
+2017,5,01-05-2017,Acute bronchitis (disorder),Non-Cancer,4
+2017,5,01-05-2017,Alzheimer's disease (disorder),Non-Cancer,1
+2017,5,01-05-2017,Anemia (disorder),Non-Cancer,1
+2017,5,01-05-2017,Asthma,Non-Cancer,1
+2017,5,01-05-2017,Breast Cancer,Cancer,7
+2017,5,01-05-2017,Chronic congestive heart failure (disorder),Non-Cancer,7
+2017,5,01-05-2017,Colon Cancer,Cancer,1
+2017,5,01-05-2017,Concussion with no loss of consciousness,Non-Cancer,1
+2017,5,01-05-2017,Cystitis,Non-Cancer,1
+2017,5,01-05-2017,Drug overdose,Non-Cancer,4
+2017,5,01-05-2017,Fetus with unknown complication,Non-Cancer,1
+2017,5,01-05-2017,Fracture of clavicle,Non-Cancer,1
+2017,5,01-05-2017,Fracture of forearm,Non-Cancer,1
+2017,5,01-05-2017,Fracture of rib,Non-Cancer,1
+2017,5,01-05-2017,Hyperlipidemia,Non-Cancer,8
+2017,5,01-05-2017,Normal pregnancy,Non-Cancer,13
+2017,5,01-05-2017,Primary fibromyalgia syndrome,Non-Cancer,1
+2017,5,01-05-2017,Sinusitis (disorder),Non-Cancer,2
+2017,5,01-05-2017,Unknown,Unknown,146
+2017,5,01-05-2017,Viral sinusitis (disorder),Non-Cancer,7
+2017,6,01-06-2017,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2017,6,01-06-2017,Acute bronchitis (disorder),Non-Cancer,6
+2017,6,01-06-2017,Acute viral pharyngitis (disorder),Non-Cancer,2
+2017,6,01-06-2017,Anemia (disorder),Non-Cancer,2
+2017,6,01-06-2017,Asthma,Non-Cancer,1
+2017,6,01-06-2017,Chronic congestive heart failure (disorder),Non-Cancer,28
+2017,6,01-06-2017,Chronic intractable migraine without aura,Non-Cancer,1
+2017,6,01-06-2017,Closed fracture of hip,Non-Cancer,1
+2017,6,01-06-2017,Colon Cancer,Cancer,1
+2017,6,01-06-2017,Drug overdose,Non-Cancer,1
+2017,6,01-06-2017,Escherichia coli urinary tract infection,Non-Cancer,2
+2017,6,01-06-2017,First degree burn,Non-Cancer,1
+2017,6,01-06-2017,Hyperlipidemia,Non-Cancer,13
+2017,6,01-06-2017,Idiopathic atrophic hypothyroidism,Non-Cancer,2
+2017,6,01-06-2017,Normal pregnancy,Non-Cancer,16
+2017,6,01-06-2017,Otitis media,Non-Cancer,1
+2017,6,01-06-2017,Sinusitis (disorder),Non-Cancer,3
+2017,6,01-06-2017,Unknown,Unknown,127
+2017,6,01-06-2017,Viral sinusitis (disorder),Non-Cancer,7
+2017,7,01-07-2017,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2017,7,01-07-2017,Acute bronchitis (disorder),Non-Cancer,4
+2017,7,01-07-2017,Acute viral pharyngitis (disorder),Non-Cancer,2
+2017,7,01-07-2017,Alzheimer's disease (disorder),Non-Cancer,2
+2017,7,01-07-2017,Asthma,Non-Cancer,1
+2017,7,01-07-2017,Breast Cancer,Cancer,4
+2017,7,01-07-2017,Chronic congestive heart failure (disorder),Non-Cancer,27
+2017,7,01-07-2017,Chronic intractable migraine without aura,Non-Cancer,1
+2017,7,01-07-2017,Colon Cancer,Cancer,1
+2017,7,01-07-2017,Drug overdose,Non-Cancer,2
+2017,7,01-07-2017,Hyperlipidemia,Non-Cancer,13
+2017,7,01-07-2017,Injury of tendon of the rotator cuff of shoulder,Non-Cancer,1
+2017,7,01-07-2017,Normal pregnancy,Non-Cancer,13
+2017,7,01-07-2017,Sinusitis (disorder),Non-Cancer,2
+2017,7,01-07-2017,Streptococcal sore throat (disorder),Non-Cancer,1
+2017,7,01-07-2017,Unknown,Unknown,130
+2017,7,01-07-2017,Viral sinusitis (disorder),Non-Cancer,4
+2017,8,01-08-2017,Acute bacterial sinusitis (disorder),Non-Cancer,2
+2017,8,01-08-2017,Acute bronchitis (disorder),Non-Cancer,3
+2017,8,01-08-2017,Acute viral pharyngitis (disorder),Non-Cancer,2
+2017,8,01-08-2017,Breast Cancer,Cancer,3
+2017,8,01-08-2017,Chronic congestive heart failure (disorder),Non-Cancer,21
+2017,8,01-08-2017,Drug overdose,Non-Cancer,1
+2017,8,01-08-2017,Fracture of ankle,Non-Cancer,1
+2017,8,01-08-2017,Fracture subluxation of wrist,Non-Cancer,1
+2017,8,01-08-2017,Hyperlipidemia,Non-Cancer,12
+2017,8,01-08-2017,Injury of medial collateral ligament of knee,Non-Cancer,1
+2017,8,01-08-2017,Injury of tendon of the rotator cuff of shoulder,Non-Cancer,1
+2017,8,01-08-2017,Normal pregnancy,Non-Cancer,17
+2017,8,01-08-2017,Osteoarthritis of hip,Non-Cancer,1
+2017,8,01-08-2017,Sinusitis (disorder),Non-Cancer,2
+2017,8,01-08-2017,Unknown,Unknown,131
+2017,8,01-08-2017,Viral sinusitis (disorder),Non-Cancer,6
+2017,9,01-09-2017,Acute bronchitis (disorder),Non-Cancer,3
+2017,9,01-09-2017,Acute viral pharyngitis (disorder),Non-Cancer,4
+2017,9,01-09-2017,Anemia (disorder),Non-Cancer,2
+2017,9,01-09-2017,Breast Cancer,Cancer,9
+2017,9,01-09-2017,Chronic congestive heart failure (disorder),Non-Cancer,16
+2017,9,01-09-2017,Drug overdose,Non-Cancer,1
+2017,9,01-09-2017,Gout,Non-Cancer,1
+2017,9,01-09-2017,Hyperlipidemia,Non-Cancer,12
+2017,9,01-09-2017,Lung Cancer (NSCLC),Cancer,1
+2017,9,01-09-2017,Normal pregnancy,Non-Cancer,18
+2017,9,01-09-2017,Streptococcal sore throat (disorder),Non-Cancer,1
+2017,9,01-09-2017,Unknown,Unknown,122
+2017,9,01-09-2017,Viral sinusitis (disorder),Non-Cancer,2
+2017,10,01-10-2017,Acute viral pharyngitis (disorder),Non-Cancer,1
+2017,10,01-10-2017,Alzheimer's disease (disorder),Non-Cancer,2
+2017,10,01-10-2017,Asthma,Non-Cancer,1
+2017,10,01-10-2017,Blighted ovum,Non-Cancer,1
+2017,10,01-10-2017,Breast Cancer,Cancer,11
+2017,10,01-10-2017,Fracture of forearm,Non-Cancer,1
+2017,10,01-10-2017,Hyperlipidemia,Non-Cancer,7
+2017,10,01-10-2017,Hypertension,Non-Cancer,1
+2017,10,01-10-2017,Injury of tendon of the rotator cuff of shoulder,Non-Cancer,1
+2017,10,01-10-2017,Normal pregnancy,Non-Cancer,13
+2017,10,01-10-2017,Streptococcal sore throat (disorder),Non-Cancer,1
+2017,10,01-10-2017,Unknown,Unknown,135
+2017,10,01-10-2017,Viral sinusitis (disorder),Non-Cancer,11
+2017,11,01-11-2017,Acute viral pharyngitis (disorder),Non-Cancer,3
+2017,11,01-11-2017,Alzheimer's disease (disorder),Non-Cancer,1
+2017,11,01-11-2017,Anemia (disorder),Non-Cancer,1
+2017,11,01-11-2017,Asthma,Non-Cancer,1
+2017,11,01-11-2017,Breast Cancer,Cancer,9
+2017,11,01-11-2017,Drug overdose,Non-Cancer,1
+2017,11,01-11-2017,Fracture of forearm,Non-Cancer,1
+2017,11,01-11-2017,Hyperlipidemia,Non-Cancer,19
+2017,11,01-11-2017,Injury of tendon of the rotator cuff of shoulder,Non-Cancer,1
+2017,11,01-11-2017,Normal pregnancy,Non-Cancer,11
+2017,11,01-11-2017,Sinusitis (disorder),Non-Cancer,1
+2017,11,01-11-2017,Unknown,Unknown,162
+2017,11,01-11-2017,Viral sinusitis (disorder),Non-Cancer,5
+2017,12,01-12-2017,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2017,12,01-12-2017,Acute bronchitis (disorder),Non-Cancer,1
+2017,12,01-12-2017,Acute viral pharyngitis (disorder),Non-Cancer,1
+2017,12,01-12-2017,Alzheimer's disease (disorder),Non-Cancer,2
+2017,12,01-12-2017,Anemia (disorder),Non-Cancer,1
+2017,12,01-12-2017,Breast Cancer,Cancer,3
+2017,12,01-12-2017,Drug overdose,Non-Cancer,2
+2017,12,01-12-2017,First degree burn,Non-Cancer,1
+2017,12,01-12-2017,Hyperlipidemia,Non-Cancer,12
+2017,12,01-12-2017,Hypertension,Non-Cancer,1
+2017,12,01-12-2017,Normal pregnancy,Non-Cancer,15
+2017,12,01-12-2017,Otitis media,Non-Cancer,1
+2017,12,01-12-2017,Sinusitis (disorder),Non-Cancer,1
+2017,12,01-12-2017,Unknown,Unknown,140
+2017,12,01-12-2017,Viral sinusitis (disorder),Non-Cancer,9
+2018,1,01-01-2018,Acute bronchitis (disorder),Non-Cancer,2
+2018,1,01-01-2018,Acute viral pharyngitis (disorder),Non-Cancer,4
+2018,1,01-01-2018,Alzheimer's disease (disorder),Non-Cancer,2
+2018,1,01-01-2018,Anemia (disorder),Non-Cancer,2
+2018,1,01-01-2018,Breast Cancer,Cancer,2
+2018,1,01-01-2018,Concussion with loss of consciousness,Non-Cancer,1
+2018,1,01-01-2018,Drug overdose,Non-Cancer,2
+2018,1,01-01-2018,Fracture of clavicle,Non-Cancer,1
+2018,1,01-01-2018,Fracture of rib,Non-Cancer,1
+2018,1,01-01-2018,Hyperlipidemia,Non-Cancer,7
+2018,1,01-01-2018,Normal pregnancy,Non-Cancer,8
+2018,1,01-01-2018,Osteoarthritis of hip,Non-Cancer,1
+2018,1,01-01-2018,Posttraumatic stress disorder,Non-Cancer,1
+2018,1,01-01-2018,Primary fibromyalgia syndrome,Non-Cancer,2
+2018,1,01-01-2018,Second degree burn,Non-Cancer,1
+2018,1,01-01-2018,Sinusitis (disorder),Non-Cancer,2
+2018,1,01-01-2018,Streptococcal sore throat (disorder),Non-Cancer,2
+2018,1,01-01-2018,Unknown,Unknown,141
+2018,1,01-01-2018,Viral sinusitis (disorder),Non-Cancer,7
+2018,2,01-02-2018,Acute bronchitis (disorder),Non-Cancer,2
+2018,2,01-02-2018,Acute viral pharyngitis (disorder),Non-Cancer,6
+2018,2,01-02-2018,Alzheimer's disease (disorder),Non-Cancer,1
+2018,2,01-02-2018,Asthma,Non-Cancer,3
+2018,2,01-02-2018,Breast Cancer,Cancer,3
+2018,2,01-02-2018,Chronic congestive heart failure (disorder),Non-Cancer,4
+2018,2,01-02-2018,Closed fracture of hip,Non-Cancer,1
+2018,2,01-02-2018,Drug overdose,Non-Cancer,1
+2018,2,01-02-2018,Fetus with unknown complication,Non-Cancer,1
+2018,2,01-02-2018,Hyperlipidemia,Non-Cancer,9
+2018,2,01-02-2018,Hypertension,Non-Cancer,1
+2018,2,01-02-2018,Normal pregnancy,Non-Cancer,7
+2018,2,01-02-2018,Posttraumatic stress disorder,Non-Cancer,3
+2018,2,01-02-2018,Sinusitis (disorder),Non-Cancer,1
+2018,2,01-02-2018,Streptococcal sore throat (disorder),Non-Cancer,1
+2018,2,01-02-2018,Unknown,Unknown,132
+2018,2,01-02-2018,Viral sinusitis (disorder),Non-Cancer,7
+2018,3,01-03-2018,Acute bronchitis (disorder),Non-Cancer,2
+2018,3,01-03-2018,Acute viral pharyngitis (disorder),Non-Cancer,2
+2018,3,01-03-2018,Alzheimer's disease (disorder),Non-Cancer,2
+2018,3,01-03-2018,Anemia (disorder),Non-Cancer,2
+2018,3,01-03-2018,Asthma,Non-Cancer,2
+2018,3,01-03-2018,Breast Cancer,Cancer,5
+2018,3,01-03-2018,Chronic congestive heart failure (disorder),Non-Cancer,3
+2018,3,01-03-2018,Closed fracture of hip,Non-Cancer,1
+2018,3,01-03-2018,Colon Cancer,Cancer,1
+2018,3,01-03-2018,Fracture of forearm,Non-Cancer,2
+2018,3,01-03-2018,Fracture subluxation of wrist,Non-Cancer,1
+2018,3,01-03-2018,Hyperlipidemia,Non-Cancer,18
+2018,3,01-03-2018,Lung Cancer (NSCLC),Cancer,1
+2018,3,01-03-2018,Normal pregnancy,Non-Cancer,5
+2018,3,01-03-2018,Posttraumatic stress disorder,Non-Cancer,4
+2018,3,01-03-2018,Sinusitis (disorder),Non-Cancer,2
+2018,3,01-03-2018,Unknown,Unknown,142
+2018,3,01-03-2018,Viral sinusitis (disorder),Non-Cancer,6
+2018,4,01-04-2018,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2018,4,01-04-2018,Acute bronchitis (disorder),Non-Cancer,2
+2018,4,01-04-2018,Acute viral pharyngitis (disorder),Non-Cancer,4
+2018,4,01-04-2018,Anemia (disorder),Non-Cancer,1
+2018,4,01-04-2018,Asthma,Non-Cancer,1
+2018,4,01-04-2018,Breast Cancer,Cancer,8
+2018,4,01-04-2018,Chronic congestive heart failure (disorder),Non-Cancer,4
+2018,4,01-04-2018,Drug overdose,Non-Cancer,1
+2018,4,01-04-2018,Escherichia coli urinary tract infection,Non-Cancer,1
+2018,4,01-04-2018,First degree burn,Non-Cancer,1
+2018,4,01-04-2018,Fracture of forearm,Non-Cancer,1
+2018,4,01-04-2018,Hyperlipidemia,Non-Cancer,12
+2018,4,01-04-2018,Normal pregnancy,Non-Cancer,4
+2018,4,01-04-2018,Pneumonia,Non-Cancer,1
+2018,4,01-04-2018,Posttraumatic stress disorder,Non-Cancer,4
+2018,4,01-04-2018,Streptococcal sore throat (disorder),Non-Cancer,1
+2018,4,01-04-2018,Unknown,Unknown,126
+2018,4,01-04-2018,Viral sinusitis (disorder),Non-Cancer,7
+2018,5,01-05-2018,Acute bacterial sinusitis (disorder),Non-Cancer,2
+2018,5,01-05-2018,Acute bronchitis (disorder),Non-Cancer,3
+2018,5,01-05-2018,Acute viral pharyngitis (disorder),Non-Cancer,4
+2018,5,01-05-2018,Alzheimer's disease (disorder),Non-Cancer,1
+2018,5,01-05-2018,Asthma,Non-Cancer,3
+2018,5,01-05-2018,Breast Cancer,Cancer,6
+2018,5,01-05-2018,Chronic congestive heart failure (disorder),Non-Cancer,1
+2018,5,01-05-2018,Closed fracture of hip,Non-Cancer,1
+2018,5,01-05-2018,Cystitis,Non-Cancer,1
+2018,5,01-05-2018,Drug overdose,Non-Cancer,2
+2018,5,01-05-2018,Escherichia coli urinary tract infection,Non-Cancer,1
+2018,5,01-05-2018,Fracture of ankle,Non-Cancer,1
+2018,5,01-05-2018,Fracture of vertebral column without spinal cord injury,Non-Cancer,1
+2018,5,01-05-2018,Hyperlipidemia,Non-Cancer,7
+2018,5,01-05-2018,Hypertension,Non-Cancer,1
+2018,5,01-05-2018,Myocardial Infarction,Non-Cancer,1
+2018,5,01-05-2018,Normal pregnancy,Non-Cancer,7
+2018,5,01-05-2018,Posttraumatic stress disorder,Non-Cancer,4
+2018,5,01-05-2018,Streptococcal sore throat (disorder),Non-Cancer,1
+2018,5,01-05-2018,Unknown,Unknown,153
+2018,5,01-05-2018,Viral sinusitis (disorder),Non-Cancer,10
+2018,6,01-06-2018,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2018,6,01-06-2018,Alzheimer's disease (disorder),Non-Cancer,2
+2018,6,01-06-2018,Anemia (disorder),Non-Cancer,1
+2018,6,01-06-2018,Breast Cancer,Cancer,1
+2018,6,01-06-2018,Chronic congestive heart failure (disorder),Non-Cancer,1
+2018,6,01-06-2018,Chronic pain,Non-Cancer,1
+2018,6,01-06-2018,Concussion with loss of consciousness,Non-Cancer,1
+2018,6,01-06-2018,Drug overdose,Non-Cancer,2
+2018,6,01-06-2018,Fracture of vertebral column without spinal cord injury,Non-Cancer,1
+2018,6,01-06-2018,Hyperlipidemia,Non-Cancer,13
+2018,6,01-06-2018,Normal pregnancy,Non-Cancer,9
+2018,6,01-06-2018,Pneumonia,Non-Cancer,1
+2018,6,01-06-2018,Posttraumatic stress disorder,Non-Cancer,3
+2018,6,01-06-2018,Streptococcal sore throat (disorder),Non-Cancer,1
+2018,6,01-06-2018,Unknown,Unknown,133
+2018,6,01-06-2018,Viral sinusitis (disorder),Non-Cancer,4
+2018,7,01-07-2018,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2018,7,01-07-2018,Acute bronchitis (disorder),Non-Cancer,4
+2018,7,01-07-2018,Acute viral pharyngitis (disorder),Non-Cancer,1
+2018,7,01-07-2018,Alzheimer's disease (disorder),Non-Cancer,1
+2018,7,01-07-2018,Breast Cancer,Cancer,6
+2018,7,01-07-2018,Closed fracture of hip,Non-Cancer,1
+2018,7,01-07-2018,Drug overdose,Non-Cancer,1
+2018,7,01-07-2018,Fracture of forearm,Non-Cancer,1
+2018,7,01-07-2018,Hyperlipidemia,Non-Cancer,13
+2018,7,01-07-2018,Hypertension,Non-Cancer,1
+2018,7,01-07-2018,Normal pregnancy,Non-Cancer,7
+2018,7,01-07-2018,Posttraumatic stress disorder,Non-Cancer,4
+2018,7,01-07-2018,Prostate Cancer,Cancer,1
+2018,7,01-07-2018,Stroke,Non-Cancer,1
+2018,7,01-07-2018,Unknown,Unknown,129
+2018,7,01-07-2018,Viral sinusitis (disorder),Non-Cancer,5
+2018,8,01-08-2018,Acute bronchitis (disorder),Non-Cancer,3
+2018,8,01-08-2018,Acute viral pharyngitis (disorder),Non-Cancer,4
+2018,8,01-08-2018,Alzheimer's disease (disorder),Non-Cancer,2
+2018,8,01-08-2018,Appendicitis,Non-Cancer,2
+2018,8,01-08-2018,Asthma,Non-Cancer,3
+2018,8,01-08-2018,Breast Cancer,Cancer,5
+2018,8,01-08-2018,Fracture of ankle,Non-Cancer,1
+2018,8,01-08-2018,Fracture of forearm,Non-Cancer,1
+2018,8,01-08-2018,Fracture subluxation of wrist,Non-Cancer,1
+2018,8,01-08-2018,Hyperlipidemia,Non-Cancer,12
+2018,8,01-08-2018,Injury of anterior cruciate ligament,Non-Cancer,1
+2018,8,01-08-2018,Normal pregnancy,Non-Cancer,14
+2018,8,01-08-2018,Posttraumatic stress disorder,Non-Cancer,4
+2018,8,01-08-2018,Unknown,Unknown,135
+2018,8,01-08-2018,Viral sinusitis (disorder),Non-Cancer,6
+2018,9,01-09-2018,Acute viral pharyngitis (disorder),Non-Cancer,3
+2018,9,01-09-2018,Alzheimer's disease (disorder),Non-Cancer,1
+2018,9,01-09-2018,Breast Cancer,Cancer,14
+2018,9,01-09-2018,Chronic congestive heart failure (disorder),Non-Cancer,3
+2018,9,01-09-2018,Closed fracture of hip,Non-Cancer,1
+2018,9,01-09-2018,Drug overdose,Non-Cancer,1
+2018,9,01-09-2018,Escherichia coli urinary tract infection,Non-Cancer,1
+2018,9,01-09-2018,Fracture of ankle,Non-Cancer,2
+2018,9,01-09-2018,Gout,Non-Cancer,1
+2018,9,01-09-2018,Hyperlipidemia,Non-Cancer,12
+2018,9,01-09-2018,Hypertension,Non-Cancer,1
+2018,9,01-09-2018,Normal pregnancy,Non-Cancer,11
+2018,9,01-09-2018,Osteoarthritis of hip,Non-Cancer,1
+2018,9,01-09-2018,Posttraumatic stress disorder,Non-Cancer,3
+2018,9,01-09-2018,Streptococcal sore throat (disorder),Non-Cancer,1
+2018,9,01-09-2018,Unknown,Unknown,119
+2018,9,01-09-2018,Viral sinusitis (disorder),Non-Cancer,6
+2018,10,01-10-2018,Acute bronchitis (disorder),Non-Cancer,1
+2018,10,01-10-2018,Acute viral pharyngitis (disorder),Non-Cancer,5
+2018,10,01-10-2018,Alzheimer's disease (disorder),Non-Cancer,2
+2018,10,01-10-2018,Breast Cancer,Cancer,10
+2018,10,01-10-2018,Chronic congestive heart failure (disorder),Non-Cancer,6
+2018,10,01-10-2018,Concussion with no loss of consciousness,Non-Cancer,1
+2018,10,01-10-2018,Contact dermatitis,Non-Cancer,1
+2018,10,01-10-2018,Drug overdose,Non-Cancer,2
+2018,10,01-10-2018,First degree burn,Non-Cancer,1
+2018,10,01-10-2018,Fracture of forearm,Non-Cancer,1
+2018,10,01-10-2018,Hyperlipidemia,Non-Cancer,7
+2018,10,01-10-2018,Normal pregnancy,Non-Cancer,10
+2018,10,01-10-2018,Posttraumatic stress disorder,Non-Cancer,5
+2018,10,01-10-2018,Prostate Cancer,Cancer,1
+2018,10,01-10-2018,Streptococcal sore throat (disorder),Non-Cancer,1
+2018,10,01-10-2018,Unknown,Unknown,113
+2018,10,01-10-2018,Viral sinusitis (disorder),Non-Cancer,7
+2018,11,01-11-2018,Acute Cholecystitis,Non-Cancer,1
+2018,11,01-11-2018,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2018,11,01-11-2018,Acute bronchitis (disorder),Non-Cancer,3
+2018,11,01-11-2018,Acute viral pharyngitis (disorder),Non-Cancer,4
+2018,11,01-11-2018,Alzheimer's disease (disorder),Non-Cancer,2
+2018,11,01-11-2018,Breast Cancer,Cancer,7
+2018,11,01-11-2018,Chronic congestive heart failure (disorder),Non-Cancer,17
+2018,11,01-11-2018,Concussion with loss of consciousness,Non-Cancer,1
+2018,11,01-11-2018,First degree burn,Non-Cancer,1
+2018,11,01-11-2018,Fracture of forearm,Non-Cancer,1
+2018,11,01-11-2018,Hyperlipidemia,Non-Cancer,19
+2018,11,01-11-2018,Normal pregnancy,Non-Cancer,9
+2018,11,01-11-2018,Posttraumatic stress disorder,Non-Cancer,3
+2018,11,01-11-2018,Streptococcal sore throat (disorder),Non-Cancer,1
+2018,11,01-11-2018,Unknown,Unknown,130
+2018,11,01-11-2018,Viral sinusitis (disorder),Non-Cancer,5
+2018,12,01-12-2018,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2018,12,01-12-2018,Acute bronchitis (disorder),Non-Cancer,3
+2018,12,01-12-2018,Acute viral pharyngitis (disorder),Non-Cancer,2
+2018,12,01-12-2018,Alzheimer's disease (disorder),Non-Cancer,2
+2018,12,01-12-2018,Asthma,Non-Cancer,1
+2018,12,01-12-2018,Breast Cancer,Cancer,3
+2018,12,01-12-2018,Chronic congestive heart failure (disorder),Non-Cancer,31
+2018,12,01-12-2018,Colon Cancer,Cancer,1
+2018,12,01-12-2018,Concussion with no loss of consciousness,Non-Cancer,1
+2018,12,01-12-2018,Fracture of clavicle,Non-Cancer,1
+2018,12,01-12-2018,Fracture subluxation of wrist,Non-Cancer,1
+2018,12,01-12-2018,Hyperlipidemia,Non-Cancer,12
+2018,12,01-12-2018,Normal pregnancy,Non-Cancer,12
+2018,12,01-12-2018,Posttraumatic stress disorder,Non-Cancer,3
+2018,12,01-12-2018,Sinusitis (disorder),Non-Cancer,1
+2018,12,01-12-2018,Streptococcal sore throat (disorder),Non-Cancer,1
+2018,12,01-12-2018,Unknown,Unknown,136
+2018,12,01-12-2018,Viral sinusitis (disorder),Non-Cancer,10
+2019,1,01-01-2019,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2019,1,01-01-2019,Acute bronchitis (disorder),Non-Cancer,5
+2019,1,01-01-2019,Acute viral pharyngitis (disorder),Non-Cancer,2
+2019,1,01-01-2019,Alzheimer's disease (disorder),Non-Cancer,3
+2019,1,01-01-2019,Asthma,Non-Cancer,1
+2019,1,01-01-2019,Breast Cancer,Cancer,3
+2019,1,01-01-2019,Chronic congestive heart failure (disorder),Non-Cancer,14
+2019,1,01-01-2019,Cystitis,Non-Cancer,1
+2019,1,01-01-2019,Fracture of forearm,Non-Cancer,1
+2019,1,01-01-2019,Gout,Non-Cancer,1
+2019,1,01-01-2019,Hyperlipidemia,Non-Cancer,7
+2019,1,01-01-2019,Normal pregnancy,Non-Cancer,19
+2019,1,01-01-2019,Posttraumatic stress disorder,Non-Cancer,5
+2019,1,01-01-2019,Sinusitis (disorder),Non-Cancer,1
+2019,1,01-01-2019,Unknown,Unknown,141
+2019,1,01-01-2019,Viral sinusitis (disorder),Non-Cancer,4
+2019,2,01-02-2019,Acute bacterial sinusitis (disorder),Non-Cancer,2
+2019,2,01-02-2019,Acute bronchitis (disorder),Non-Cancer,5
+2019,2,01-02-2019,Acute viral pharyngitis (disorder),Non-Cancer,1
+2019,2,01-02-2019,Alzheimer's disease (disorder),Non-Cancer,2
+2019,2,01-02-2019,Breast Cancer,Cancer,5
+2019,2,01-02-2019,Chronic congestive heart failure (disorder),Non-Cancer,7
+2019,2,01-02-2019,Hyperlipidemia,Non-Cancer,7
+2019,2,01-02-2019,Lung Cancer (NSCLC),Cancer,1
+2019,2,01-02-2019,Normal pregnancy,Non-Cancer,11
+2019,2,01-02-2019,Posttraumatic stress disorder,Non-Cancer,3
+2019,2,01-02-2019,Prostate Cancer,Cancer,1
+2019,2,01-02-2019,Unknown,Unknown,125
+2019,2,01-02-2019,Viral sinusitis (disorder),Non-Cancer,4
+2019,3,01-03-2019,Acute bronchitis (disorder),Non-Cancer,3
+2019,3,01-03-2019,Acute viral pharyngitis (disorder),Non-Cancer,2
+2019,3,01-03-2019,Alzheimer's disease (disorder),Non-Cancer,1
+2019,3,01-03-2019,Anemia (disorder),Non-Cancer,1
+2019,3,01-03-2019,Breast Cancer,Cancer,5
+2019,3,01-03-2019,Cardiac Arrest,Non-Cancer,1
+2019,3,01-03-2019,Chronic congestive heart failure (disorder),Non-Cancer,2
+2019,3,01-03-2019,Concussion with no loss of consciousness,Non-Cancer,1
+2019,3,01-03-2019,Drug overdose,Non-Cancer,2
+2019,3,01-03-2019,Familial Alzheimer's disease of early onset (disorder),Non-Cancer,1
+2019,3,01-03-2019,Fracture of forearm,Non-Cancer,1
+2019,3,01-03-2019,Gout,Non-Cancer,1
+2019,3,01-03-2019,Hyperlipidemia,Non-Cancer,17
+2019,3,01-03-2019,Normal pregnancy,Non-Cancer,13
+2019,3,01-03-2019,Osteoarthritis of hip,Non-Cancer,1
+2019,3,01-03-2019,Posttraumatic stress disorder,Non-Cancer,4
+2019,3,01-03-2019,Prostate Cancer,Cancer,1
+2019,3,01-03-2019,Sinusitis (disorder),Non-Cancer,1
+2019,3,01-03-2019,Unknown,Unknown,162
+2019,3,01-03-2019,Viral sinusitis (disorder),Non-Cancer,7
+2019,4,01-04-2019,Acute bronchitis (disorder),Non-Cancer,4
+2019,4,01-04-2019,Acute viral pharyngitis (disorder),Non-Cancer,5
+2019,4,01-04-2019,Alzheimer's disease (disorder),Non-Cancer,2
+2019,4,01-04-2019,Breast Cancer,Cancer,9
+2019,4,01-04-2019,Chronic congestive heart failure (disorder),Non-Cancer,1
+2019,4,01-04-2019,Fracture of forearm,Non-Cancer,1
+2019,4,01-04-2019,Hyperlipidemia,Non-Cancer,11
+2019,4,01-04-2019,Impacted molars,Non-Cancer,1
+2019,4,01-04-2019,Normal pregnancy,Non-Cancer,7
+2019,4,01-04-2019,Sinusitis (disorder),Non-Cancer,2
+2019,4,01-04-2019,Unknown,Unknown,131
+2019,4,01-04-2019,Viral sinusitis (disorder),Non-Cancer,3
+2019,5,01-05-2019,Acute bronchitis (disorder),Non-Cancer,3
+2019,5,01-05-2019,Acute viral pharyngitis (disorder),Non-Cancer,1
+2019,5,01-05-2019,Alzheimer's disease (disorder),Non-Cancer,3
+2019,5,01-05-2019,Anemia (disorder),Non-Cancer,1
+2019,5,01-05-2019,Breast Cancer,Cancer,6
+2019,5,01-05-2019,Chronic congestive heart failure (disorder),Non-Cancer,3
+2019,5,01-05-2019,Cystitis,Non-Cancer,2
+2019,5,01-05-2019,Drug overdose,Non-Cancer,2
+2019,5,01-05-2019,First degree burn,Non-Cancer,1
+2019,5,01-05-2019,Fracture of forearm,Non-Cancer,1
+2019,5,01-05-2019,Hyperlipidemia,Non-Cancer,7
+2019,5,01-05-2019,Normal pregnancy,Non-Cancer,10
+2019,5,01-05-2019,Prostate Cancer,Cancer,1
+2019,5,01-05-2019,Sinusitis (disorder),Non-Cancer,3
+2019,5,01-05-2019,Streptococcal sore throat (disorder),Non-Cancer,1
+2019,5,01-05-2019,Unknown,Unknown,141
+2019,5,01-05-2019,Viral sinusitis (disorder),Non-Cancer,7
+2019,6,01-06-2019,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2019,6,01-06-2019,Acute bronchitis (disorder),Non-Cancer,1
+2019,6,01-06-2019,Acute viral pharyngitis (disorder),Non-Cancer,2
+2019,6,01-06-2019,Alzheimer's disease (disorder),Non-Cancer,2
+2019,6,01-06-2019,Anemia (disorder),Non-Cancer,1
+2019,6,01-06-2019,Asthma,Non-Cancer,1
+2019,6,01-06-2019,Drug overdose,Non-Cancer,1
+2019,6,01-06-2019,Fracture subluxation of wrist,Non-Cancer,1
+2019,6,01-06-2019,Hyperlipidemia,Non-Cancer,13
+2019,6,01-06-2019,Normal pregnancy,Non-Cancer,10
+2019,6,01-06-2019,Streptococcal sore throat (disorder),Non-Cancer,1
+2019,6,01-06-2019,Unknown,Unknown,134
+2019,6,01-06-2019,Viral sinusitis (disorder),Non-Cancer,6
+2019,7,01-07-2019,Acute bronchitis (disorder),Non-Cancer,1
+2019,7,01-07-2019,Acute viral pharyngitis (disorder),Non-Cancer,3
+2019,7,01-07-2019,Alzheimer's disease (disorder),Non-Cancer,1
+2019,7,01-07-2019,Anemia (disorder),Non-Cancer,2
+2019,7,01-07-2019,Breast Cancer,Cancer,2
+2019,7,01-07-2019,Fetus with unknown complication,Non-Cancer,1
+2019,7,01-07-2019,Hyperlipidemia,Non-Cancer,14
+2019,7,01-07-2019,Normal pregnancy,Non-Cancer,7
+2019,7,01-07-2019,Sinusitis (disorder),Non-Cancer,1
+2019,7,01-07-2019,Unknown,Unknown,170
+2019,7,01-07-2019,Viral sinusitis (disorder),Non-Cancer,5
+2019,8,01-08-2019,Acute bronchitis (disorder),Non-Cancer,1
+2019,8,01-08-2019,Acute viral pharyngitis (disorder),Non-Cancer,4
+2019,8,01-08-2019,Alzheimer's disease (disorder),Non-Cancer,1
+2019,8,01-08-2019,Breast Cancer,Cancer,3
+2019,8,01-08-2019,Chronic congestive heart failure (disorder),Non-Cancer,2
+2019,8,01-08-2019,Colon Cancer,Cancer,2
+2019,8,01-08-2019,Concussion with loss of consciousness,Non-Cancer,1
+2019,8,01-08-2019,Fracture of forearm,Non-Cancer,1
+2019,8,01-08-2019,Fracture of rib,Non-Cancer,1
+2019,8,01-08-2019,Fracture subluxation of wrist,Non-Cancer,1
+2019,8,01-08-2019,Hyperlipidemia,Non-Cancer,12
+2019,8,01-08-2019,Normal pregnancy,Non-Cancer,7
+2019,8,01-08-2019,Osteoarthritis of knee,Non-Cancer,1
+2019,8,01-08-2019,Unknown,Unknown,132
+2019,8,01-08-2019,Viral sinusitis (disorder),Non-Cancer,4
+2019,9,01-09-2019,Acute bronchitis (disorder),Non-Cancer,2
+2019,9,01-09-2019,Acute viral pharyngitis (disorder),Non-Cancer,3
+2019,9,01-09-2019,Alzheimer's disease (disorder),Non-Cancer,1
+2019,9,01-09-2019,Breast Cancer,Cancer,16
+2019,9,01-09-2019,Chronic congestive heart failure (disorder),Non-Cancer,3
+2019,9,01-09-2019,Closed fracture of hip,Non-Cancer,1
+2019,9,01-09-2019,Fracture of ankle,Non-Cancer,1
+2019,9,01-09-2019,Hyperlipidemia,Non-Cancer,14
+2019,9,01-09-2019,Myocardial Infarction,Non-Cancer,1
+2019,9,01-09-2019,Normal pregnancy,Non-Cancer,3
+2019,9,01-09-2019,Unknown,Unknown,113
+2019,9,01-09-2019,Viral sinusitis (disorder),Non-Cancer,3
+2019,10,01-10-2019,Acute bronchitis (disorder),Non-Cancer,4
+2019,10,01-10-2019,Acute viral pharyngitis (disorder),Non-Cancer,5
+2019,10,01-10-2019,Alzheimer's disease (disorder),Non-Cancer,2
+2019,10,01-10-2019,Asthma,Non-Cancer,1
+2019,10,01-10-2019,Breast Cancer,Cancer,9
+2019,10,01-10-2019,Chronic congestive heart failure (disorder),Non-Cancer,1
+2019,10,01-10-2019,Closed fracture of hip,Non-Cancer,1
+2019,10,01-10-2019,Drug overdose,Non-Cancer,2
+2019,10,01-10-2019,Hyperlipidemia,Non-Cancer,5
+2019,10,01-10-2019,Normal pregnancy,Non-Cancer,4
+2019,10,01-10-2019,Streptococcal sore throat (disorder),Non-Cancer,1
+2019,10,01-10-2019,Unknown,Unknown,125
+2019,10,01-10-2019,Viral sinusitis (disorder),Non-Cancer,9
+2019,11,01-11-2019,Acute bronchitis (disorder),Non-Cancer,3
+2019,11,01-11-2019,Acute viral pharyngitis (disorder),Non-Cancer,1
+2019,11,01-11-2019,Alzheimer's disease (disorder),Non-Cancer,1
+2019,11,01-11-2019,Anemia (disorder),Non-Cancer,1
+2019,11,01-11-2019,Asthma,Non-Cancer,3
+2019,11,01-11-2019,Breast Cancer,Cancer,5
+2019,11,01-11-2019,Chronic congestive heart failure (disorder),Non-Cancer,1
+2019,11,01-11-2019,Escherichia coli urinary tract infection,Non-Cancer,1
+2019,11,01-11-2019,Fracture of forearm,Non-Cancer,1
+2019,11,01-11-2019,Hyperlipidemia,Non-Cancer,19
+2019,11,01-11-2019,Idiopathic atrophic hypothyroidism,Non-Cancer,1
+2019,11,01-11-2019,Myocardial Infarction,Non-Cancer,1
+2019,11,01-11-2019,Normal pregnancy,Non-Cancer,6
+2019,11,01-11-2019,Osteoarthritis of knee,Non-Cancer,1
+2019,11,01-11-2019,Sinusitis (disorder),Non-Cancer,1
+2019,11,01-11-2019,Streptococcal sore throat (disorder),Non-Cancer,1
+2019,11,01-11-2019,Unknown,Unknown,140
+2019,11,01-11-2019,Viral sinusitis (disorder),Non-Cancer,1
+2019,12,01-12-2019,Acute bronchitis (disorder),Non-Cancer,4
+2019,12,01-12-2019,Acute viral pharyngitis (disorder),Non-Cancer,5
+2019,12,01-12-2019,Alzheimer's disease (disorder),Non-Cancer,1
+2019,12,01-12-2019,Anemia (disorder),Non-Cancer,1
+2019,12,01-12-2019,Breast Cancer,Cancer,2
+2019,12,01-12-2019,Chronic congestive heart failure (disorder),Non-Cancer,1
+2019,12,01-12-2019,Drug overdose,Non-Cancer,1
+2019,12,01-12-2019,Fracture of rib,Non-Cancer,1
+2019,12,01-12-2019,Hyperlipidemia,Non-Cancer,12
+2019,12,01-12-2019,Idiopathic atrophic hypothyroidism,Non-Cancer,1
+2019,12,01-12-2019,Normal pregnancy,Non-Cancer,10
+2019,12,01-12-2019,Osteoarthritis of knee,Non-Cancer,1
+2019,12,01-12-2019,Sinusitis (disorder),Non-Cancer,1
+2019,12,01-12-2019,Streptococcal sore throat (disorder),Non-Cancer,1
+2019,12,01-12-2019,Unknown,Unknown,130
+2019,12,01-12-2019,Viral sinusitis (disorder),Non-Cancer,4
+2020,1,01-01-2020,Acute bacterial sinusitis (disorder),Non-Cancer,3
+2020,1,01-01-2020,Acute bronchitis (disorder),Non-Cancer,2
+2020,1,01-01-2020,Acute viral pharyngitis (disorder),Non-Cancer,6
+2020,1,01-01-2020,Breast Cancer,Cancer,6
+2020,1,01-01-2020,Chronic congestive heart failure (disorder),Non-Cancer,1
+2020,1,01-01-2020,Drug overdose,Non-Cancer,2
+2020,1,01-01-2020,Fetus with unknown complication,Non-Cancer,1
+2020,1,01-01-2020,Fracture of ankle,Non-Cancer,2
+2020,1,01-01-2020,Hyperlipidemia,Non-Cancer,7
+2020,1,01-01-2020,Injury of anterior cruciate ligament,Non-Cancer,1
+2020,1,01-01-2020,Normal pregnancy,Non-Cancer,12
+2020,1,01-01-2020,Primary fibromyalgia syndrome,Non-Cancer,1
+2020,1,01-01-2020,Unknown,Unknown,124
+2020,1,01-01-2020,Viral sinusitis (disorder),Non-Cancer,8
+2020,2,01-02-2020,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2020,2,01-02-2020,Acute bronchitis (disorder),Non-Cancer,1
+2020,2,01-02-2020,Acute viral pharyngitis (disorder),Non-Cancer,1
+2020,2,01-02-2020,Alzheimer's disease (disorder),Non-Cancer,1
+2020,2,01-02-2020,Breast Cancer,Cancer,4
+2020,2,01-02-2020,Chronic congestive heart failure (disorder),Non-Cancer,1
+2020,2,01-02-2020,Chronic intractable migraine without aura,Non-Cancer,1
+2020,2,01-02-2020,Colon Cancer,Cancer,1
+2020,2,01-02-2020,Fracture of ankle,Non-Cancer,1
+2020,2,01-02-2020,Hyperlipidemia,Non-Cancer,7
+2020,2,01-02-2020,Normal pregnancy,Non-Cancer,11
+2020,2,01-02-2020,Polyp of colon,Non-Cancer,1
+2020,2,01-02-2020,Unknown,Unknown,126
+2020,2,01-02-2020,Viral sinusitis (disorder),Non-Cancer,5
+2020,3,01-03-2020,Acute bronchitis (disorder),Non-Cancer,2
+2020,3,01-03-2020,Alzheimer's disease (disorder),Non-Cancer,1
+2020,3,01-03-2020,Asthma,Non-Cancer,1
+2020,3,01-03-2020,Breast Cancer,Cancer,6
+2020,3,01-03-2020,Chronic congestive heart failure (disorder),Non-Cancer,14
+2020,3,01-03-2020,Drug overdose,Non-Cancer,2
+2020,3,01-03-2020,Hyperlipidemia,Non-Cancer,17
+2020,3,01-03-2020,Normal pregnancy,Non-Cancer,9
+2020,3,01-03-2020,Osteoarthritis of knee,Non-Cancer,1
+2020,3,01-03-2020,Rupture of patellar tendon,Non-Cancer,1
+2020,3,01-03-2020,Sinusitis (disorder),Non-Cancer,2
+2020,3,01-03-2020,Unknown,Unknown,119
+2020,3,01-03-2020,Viral sinusitis (disorder),Non-Cancer,5
+2020,4,01-04-2020,Acute bacterial sinusitis (disorder),Non-Cancer,1
+2020,4,01-04-2020,Acute bronchitis (disorder),Non-Cancer,5
+2020,4,01-04-2020,Acute viral pharyngitis (disorder),Non-Cancer,2
+2020,4,01-04-2020,Alzheimer's disease (disorder),Non-Cancer,1
+2020,4,01-04-2020,Asthma,Non-Cancer,3
+2020,4,01-04-2020,Breast Cancer,Cancer,13
+2020,4,01-04-2020,Chronic congestive heart failure (disorder),Non-Cancer,16
+2020,4,01-04-2020,Concussion with no loss of consciousness,Non-Cancer,1
+2020,4,01-04-2020,Fracture of forearm,Non-Cancer,2
+2020,4,01-04-2020,Hyperlipidemia,Non-Cancer,11
+2020,4,01-04-2020,Normal pregnancy,Non-Cancer,11
+2020,4,01-04-2020,Otitis media,Non-Cancer,1
+2020,4,01-04-2020,Streptococcal sore throat (disorder),Non-Cancer,1
+2020,4,01-04-2020,Unknown,Unknown,124
+2020,4,01-04-2020,Viral sinusitis (disorder),Non-Cancer,7
+2020,5,01-05-2020,Acute bronchitis (disorder),Non-Cancer,2
+2020,5,01-05-2020,Acute viral pharyngitis (disorder),Non-Cancer,5
+2020,5,01-05-2020,Alzheimer's disease (disorder),Non-Cancer,1
+2020,5,01-05-2020,Asthma,Non-Cancer,2
+2020,5,01-05-2020,Breast Cancer,Cancer,1
+2020,5,01-05-2020,Chronic congestive heart failure (disorder),Non-Cancer,19
+2020,5,01-05-2020,Concussion with loss of consciousness,Non-Cancer,1
+2020,5,01-05-2020,Fracture of clavicle,Non-Cancer,1
+2020,5,01-05-2020,Hyperlipidemia,Non-Cancer,6
+2020,5,01-05-2020,Normal pregnancy,Non-Cancer,12
+2020,5,01-05-2020,Pneumonia,Non-Cancer,1
+2020,5,01-05-2020,Primary fibromyalgia syndrome,Non-Cancer,1
+2020,5,01-05-2020,Sepsis (disorder),Non-Cancer,1
+2020,5,01-05-2020,Sinusitis (disorder),Non-Cancer,1
+2020,5,01-05-2020,Streptococcal sore throat (disorder),Non-Cancer,4
+2020,5,01-05-2020,Unknown,Unknown,131
+2020,5,01-05-2020,Viral sinusitis (disorder),Non-Cancer,4
+2020,6,01-06-2020,Acute bronchitis (disorder),Non-Cancer,1
+2020,6,01-06-2020,Acute viral pharyngitis (disorder),Non-Cancer,1
+2020,6,01-06-2020,Alzheimer's disease (disorder),Non-Cancer,1
+2020,6,01-06-2020,Anemia (disorder),Non-Cancer,3
+2020,6,01-06-2020,Breast Cancer,Cancer,2
+2020,6,01-06-2020,Chronic congestive heart failure (disorder),Non-Cancer,16
+2020,6,01-06-2020,Fetus with unknown complication,Non-Cancer,1
+2020,6,01-06-2020,Fracture of forearm,Non-Cancer,2
+2020,6,01-06-2020,Hyperlipidemia,Non-Cancer,14
+2020,6,01-06-2020,Normal pregnancy,Non-Cancer,15
+2020,6,01-06-2020,Unknown,Unknown,125
+2020,6,01-06-2020,Viral sinusitis (disorder),Non-Cancer,3
+2020,7,01-07-2020,Acute bronchitis (disorder),Non-Cancer,3
+2020,7,01-07-2020,Acute viral pharyngitis (disorder),Non-Cancer,4
+2020,7,01-07-2020,Alzheimer's disease (disorder),Non-Cancer,3
+2020,7,01-07-2020,Breast Cancer,Cancer,9
+2020,7,01-07-2020,COVID-19,Non-Cancer,1
+2020,7,01-07-2020,Chronic congestive heart failure (disorder),Non-Cancer,35
+2020,7,01-07-2020,Closed fracture of hip,Non-Cancer,1
+2020,7,01-07-2020,Drug overdose,Non-Cancer,2
+2020,7,01-07-2020,Familial Alzheimer's disease of early onset (disorder),Non-Cancer,1
+2020,7,01-07-2020,First degree burn,Non-Cancer,1
+2020,7,01-07-2020,Fracture of clavicle,Non-Cancer,1
+2020,7,01-07-2020,Fracture of rib,Non-Cancer,1
+2020,7,01-07-2020,Hyperlipidemia,Non-Cancer,15
+2020,7,01-07-2020,Normal pregnancy,Non-Cancer,18
+2020,7,01-07-2020,Sinusitis (disorder),Non-Cancer,1
+2020,7,01-07-2020,Unknown,Unknown,127
+2020,7,01-07-2020,Viral sinusitis (disorder),Non-Cancer,10
+2020,8,01-08-2020,Acute bronchitis (disorder),Non-Cancer,2
+2020,8,01-08-2020,Acute viral pharyngitis (disorder),Non-Cancer,1
+2020,8,01-08-2020,Asthma,Non-Cancer,1
+2020,8,01-08-2020,Blighted ovum,Non-Cancer,1
+2020,8,01-08-2020,Breast Cancer,Cancer,7
+2020,8,01-08-2020,COVID-19,Non-Cancer,2
+2020,8,01-08-2020,Chronic congestive heart failure (disorder),Non-Cancer,42
+2020,8,01-08-2020,Concussion with no loss of consciousness,Non-Cancer,1
+2020,8,01-08-2020,Drug overdose,Non-Cancer,2
+2020,8,01-08-2020,First degree burn,Non-Cancer,1
+2020,8,01-08-2020,Fracture of forearm,Non-Cancer,1
+2020,8,01-08-2020,Hyperlipidemia,Non-Cancer,15
+2020,8,01-08-2020,Normal pregnancy,Non-Cancer,8
+2020,8,01-08-2020,Osteoarthritis of knee,Non-Cancer,1
+2020,8,01-08-2020,Second degree burn,Non-Cancer,1
+2020,8,01-08-2020,Sepsis (disorder),Non-Cancer,1
+2020,8,01-08-2020,Streptococcal sore throat (disorder),Non-Cancer,1
+2020,8,01-08-2020,Unknown,Unknown,132
+2020,8,01-08-2020,Viral sinusitis (disorder),Non-Cancer,3
+2020,9,01-09-2020,Acute bronchitis (disorder),Non-Cancer,2
+2020,9,01-09-2020,Alzheimer's disease (disorder),Non-Cancer,3
+2020,9,01-09-2020,Asthma,Non-Cancer,1
+2020,9,01-09-2020,Breast Cancer,Cancer,8
+2020,9,01-09-2020,Chronic congestive heart failure (disorder),Non-Cancer,42
+2020,9,01-09-2020,Hyperlipidemia,Non-Cancer,10
+2020,9,01-09-2020,Normal pregnancy,Non-Cancer,8
+2020,9,01-09-2020,Sinusitis (disorder),Non-Cancer,1
+2020,9,01-09-2020,Streptococcal sore throat (disorder),Non-Cancer,1
+2020,9,01-09-2020,Unknown,Unknown,124
+2020,9,01-09-2020,Viral sinusitis (disorder),Non-Cancer,9
+2020,10,01-10-2020,Acute bronchitis (disorder),Non-Cancer,1
+2020,10,01-10-2020,Acute viral pharyngitis (disorder),Non-Cancer,5
+2020,10,01-10-2020,Alzheimer's disease (disorder),Non-Cancer,3
+2020,10,01-10-2020,Breast Cancer,Cancer,8
+2020,10,01-10-2020,COVID-19,Non-Cancer,4
+2020,10,01-10-2020,Chronic congestive heart failure (disorder),Non-Cancer,51
+2020,10,01-10-2020,Drug overdose,Non-Cancer,1
+2020,10,01-10-2020,Escherichia coli urinary tract infection,Non-Cancer,1
+2020,10,01-10-2020,Fracture of forearm,Non-Cancer,3
+2020,10,01-10-2020,Hyperlipidemia,Non-Cancer,4
+2020,10,01-10-2020,Injury of tendon of the rotator cuff of shoulder,Non-Cancer,1
+2020,10,01-10-2020,Normal pregnancy,Non-Cancer,6
+2020,10,01-10-2020,Otitis media,Non-Cancer,1
+2020,10,01-10-2020,Streptococcal sore throat (disorder),Non-Cancer,1
+2020,10,01-10-2020,Unknown,Unknown,137
+2020,10,01-10-2020,Viral sinusitis (disorder),Non-Cancer,5
+2020,11,01-11-2020,Acute bronchitis (disorder),Non-Cancer,1
+2020,11,01-11-2020,Alzheimer's disease (disorder),Non-Cancer,1
+2020,11,01-11-2020,Anemia (disorder),Non-Cancer,1
+2020,11,01-11-2020,Asthma,Non-Cancer,1
+2020,11,01-11-2020,Breast Cancer,Cancer,9
+2020,11,01-11-2020,COVID-19,Non-Cancer,5
+2020,11,01-11-2020,Chronic congestive heart failure (disorder),Non-Cancer,48
+2020,11,01-11-2020,Drug overdose,Non-Cancer,2
+2020,11,01-11-2020,Fracture of forearm,Non-Cancer,1
+2020,11,01-11-2020,Hyperlipidemia,Non-Cancer,19
+2020,11,01-11-2020,Injury of tendon of the rotator cuff of shoulder,Non-Cancer,1
+2020,11,01-11-2020,Normal pregnancy,Non-Cancer,11
+2020,11,01-11-2020,Sinusitis (disorder),Non-Cancer,1
+2020,11,01-11-2020,Unknown,Unknown,154
+2020,11,01-11-2020,Viral sinusitis (disorder),Non-Cancer,6
+2020,12,01-12-2020,Acute bronchitis (disorder),Non-Cancer,4
+2020,12,01-12-2020,Acute viral pharyngitis (disorder),Non-Cancer,7
+2020,12,01-12-2020,Alzheimer's disease (disorder),Non-Cancer,1
+2020,12,01-12-2020,Breast Cancer,Cancer,3
+2020,12,01-12-2020,COVID-19,Non-Cancer,5
+2020,12,01-12-2020,Chronic congestive heart failure (disorder),Non-Cancer,55
+2020,12,01-12-2020,Drug overdose,Non-Cancer,2
+2020,12,01-12-2020,Fracture of clavicle,Non-Cancer,1
+2020,12,01-12-2020,Fracture subluxation of wrist,Non-Cancer,1
+2020,12,01-12-2020,Hyperlipidemia,Non-Cancer,13
+2020,12,01-12-2020,Normal pregnancy,Non-Cancer,7
+2020,12,01-12-2020,Second degree burn,Non-Cancer,1
+2020,12,01-12-2020,Sinusitis (disorder),Non-Cancer,1
+2020,12,01-12-2020,Unknown,Unknown,161
+2020,12,01-12-2020,Viral sinusitis (disorder),Non-Cancer,5
+2021,1,01-01-2021,Acute bronchitis (disorder),Non-Cancer,2
+2021,1,01-01-2021,Acute viral pharyngitis (disorder),Non-Cancer,9
+2021,1,01-01-2021,Alzheimer's disease (disorder),Non-Cancer,1
+2021,1,01-01-2021,Asthma,Non-Cancer,1
+2021,1,01-01-2021,Breast Cancer,Cancer,6
+2021,1,01-01-2021,COVID-19,Non-Cancer,7
+2021,1,01-01-2021,Cardiac Arrest,Non-Cancer,1
+2021,1,01-01-2021,Chronic congestive heart failure (disorder),Non-Cancer,18
+2021,1,01-01-2021,Fracture of forearm,Non-Cancer,1
+2021,1,01-01-2021,Hyperlipidemia,Non-Cancer,6
+2021,1,01-01-2021,Normal pregnancy,Non-Cancer,9
+2021,1,01-01-2021,Unknown,Unknown,197
+2021,1,01-01-2021,Viral sinusitis (disorder),Non-Cancer,5
+2021,2,01-02-2021,Acute bronchitis (disorder),Non-Cancer,2
+2021,2,01-02-2021,Acute viral pharyngitis (disorder),Non-Cancer,2
+2021,2,01-02-2021,Alzheimer's disease (disorder),Non-Cancer,1
+2021,2,01-02-2021,Asthma,Non-Cancer,1
+2021,2,01-02-2021,Breast Cancer,Cancer,1
+2021,2,01-02-2021,COVID-19,Non-Cancer,1
+2021,2,01-02-2021,Chronic congestive heart failure (disorder),Non-Cancer,20
+2021,2,01-02-2021,Concussion with loss of consciousness,Non-Cancer,1
+2021,2,01-02-2021,Fracture of ankle,Non-Cancer,1
+2021,2,01-02-2021,Hyperlipidemia,Non-Cancer,7
+2021,2,01-02-2021,Normal pregnancy,Non-Cancer,3
+2021,2,01-02-2021,Unknown,Unknown,282
+2021,2,01-02-2021,Viral sinusitis (disorder),Non-Cancer,6
+2021,3,01-03-2021,Acute bacterial sinusitis (disorder),Non-Cancer,2
+2021,3,01-03-2021,Acute bronchitis (disorder),Non-Cancer,3
+2021,3,01-03-2021,Acute viral pharyngitis (disorder),Non-Cancer,5
+2021,3,01-03-2021,Alzheimer's disease (disorder),Non-Cancer,1
+2021,3,01-03-2021,Asthma,Non-Cancer,1
+2021,3,01-03-2021,Breast Cancer,Cancer,12
+2021,3,01-03-2021,Chronic congestive heart failure (disorder),Non-Cancer,17
+2021,3,01-03-2021,Colon Cancer,Cancer,1
+2021,3,01-03-2021,Fetus with unknown complication,Non-Cancer,1
+2021,3,01-03-2021,First degree burn,Non-Cancer,2
+2021,3,01-03-2021,Fracture of forearm,Non-Cancer,1
+2021,3,01-03-2021,Fracture subluxation of wrist,Non-Cancer,1
+2021,3,01-03-2021,Hyperlipidemia,Non-Cancer,16
+2021,3,01-03-2021,Normal pregnancy,Non-Cancer,3
+2021,3,01-03-2021,Streptococcal sore throat (disorder),Non-Cancer,1
+2021,3,01-03-2021,Unknown,Unknown,378
+2021,3,01-03-2021,Viral sinusitis (disorder),Non-Cancer,7
+2021,4,01-04-2021,Acute bronchitis (disorder),Non-Cancer,1
+2021,4,01-04-2021,Acute viral pharyngitis (disorder),Non-Cancer,4
+2021,4,01-04-2021,Alzheimer's disease (disorder),Non-Cancer,1
+2021,4,01-04-2021,Anemia (disorder),Non-Cancer,1
+2021,4,01-04-2021,Asthma,Non-Cancer,1
+2021,4,01-04-2021,Breast Cancer,Cancer,4
+2021,4,01-04-2021,COVID-19,Non-Cancer,1
+2021,4,01-04-2021,Chronic congestive heart failure (disorder),Non-Cancer,35
+2021,4,01-04-2021,Colon Cancer,Cancer,1
+2021,4,01-04-2021,Concussion with no loss of consciousness,Non-Cancer,1
+2021,4,01-04-2021,Drug overdose,Non-Cancer,1
+2021,4,01-04-2021,Hyperlipidemia,Non-Cancer,11
+2021,4,01-04-2021,Localized  primary osteoarthritis of the hand,Non-Cancer,1
+2021,4,01-04-2021,Normal pregnancy,Non-Cancer,5
+2021,4,01-04-2021,Streptococcal sore throat (disorder),Non-Cancer,1
+2021,4,01-04-2021,Unknown,Unknown,346
+2021,4,01-04-2021,Viral sinusitis (disorder),Non-Cancer,6
+2021,5,01-05-2021,Acute bronchitis (disorder),Non-Cancer,1
+2021,5,01-05-2021,Acute viral pharyngitis (disorder),Non-Cancer,2
+2021,5,01-05-2021,Alzheimer's disease (disorder),Non-Cancer,2
+2021,5,01-05-2021,Asthma,Non-Cancer,1
+2021,5,01-05-2021,Breast Cancer,Cancer,4
+2021,5,01-05-2021,Chronic congestive heart failure (disorder),Non-Cancer,32
+2021,5,01-05-2021,Colon Cancer,Cancer,2
+2021,5,01-05-2021,Drug overdose,Non-Cancer,1
+2021,5,01-05-2021,First degree burn,Non-Cancer,1
+2021,5,01-05-2021,Hyperlipidemia,Non-Cancer,6
+2021,5,01-05-2021,Normal pregnancy,Non-Cancer,8
+2021,5,01-05-2021,Primary fibromyalgia syndrome,Non-Cancer,1
+2021,5,01-05-2021,Prostate Cancer,Cancer,1
+2021,5,01-05-2021,Unknown,Unknown,271
+2021,5,01-05-2021,Viral sinusitis (disorder),Non-Cancer,9
+2021,6,01-06-2021,Acute bronchitis (disorder),Non-Cancer,3
+2021,6,01-06-2021,Acute viral pharyngitis (disorder),Non-Cancer,5
+2021,6,01-06-2021,Alzheimer's disease (disorder),Non-Cancer,3
+2021,6,01-06-2021,Anemia (disorder),Non-Cancer,1
+2021,6,01-06-2021,Blighted ovum,Non-Cancer,1
+2021,6,01-06-2021,Breast Cancer,Cancer,4
+2021,6,01-06-2021,Chronic congestive heart failure (disorder),Non-Cancer,33
+2021,6,01-06-2021,Colon Cancer,Cancer,1
+2021,6,01-06-2021,Concussion with no loss of consciousness,Non-Cancer,1
+2021,6,01-06-2021,Drug overdose,Non-Cancer,2
+2021,6,01-06-2021,Escherichia coli urinary tract infection,Non-Cancer,1
+2021,6,01-06-2021,Fracture subluxation of wrist,Non-Cancer,1
+2021,6,01-06-2021,Hyperlipidemia,Non-Cancer,14
+2021,6,01-06-2021,Normal pregnancy,Non-Cancer,5
+2021,6,01-06-2021,Sinusitis (disorder),Non-Cancer,1
+2021,6,01-06-2021,Unknown,Unknown,179
+2021,6,01-06-2021,Viral sinusitis (disorder),Non-Cancer,5
+2021,7,01-07-2021,Acute bronchitis (disorder),Non-Cancer,5
+2021,7,01-07-2021,Acute viral pharyngitis (disorder),Non-Cancer,4
+2021,7,01-07-2021,Alzheimer's disease (disorder),Non-Cancer,2
+2021,7,01-07-2021,Asthma,Non-Cancer,2
+2021,7,01-07-2021,Breast Cancer,Cancer,9
+2021,7,01-07-2021,Chronic congestive heart failure (disorder),Non-Cancer,19
+2021,7,01-07-2021,Colon Cancer,Cancer,2
+2021,7,01-07-2021,Escherichia coli urinary tract infection,Non-Cancer,1
+2021,7,01-07-2021,Gout,Non-Cancer,2
+2021,7,01-07-2021,Hyperlipidemia,Non-Cancer,14
+2021,7,01-07-2021,Normal pregnancy,Non-Cancer,10
+2021,7,01-07-2021,Unknown,Unknown,188
+2021,7,01-07-2021,Viral sinusitis (disorder),Non-Cancer,5
+2021,8,01-08-2021,Acute bronchitis (disorder),Non-Cancer,2
+2021,8,01-08-2021,Acute viral pharyngitis (disorder),Non-Cancer,5
+2021,8,01-08-2021,Alzheimer's disease (disorder),Non-Cancer,1
+2021,8,01-08-2021,Asthma,Non-Cancer,1
+2021,8,01-08-2021,Breast Cancer,Cancer,1
+2021,8,01-08-2021,Chronic congestive heart failure (disorder),Non-Cancer,23
+2021,8,01-08-2021,Colon Cancer,Cancer,1
+2021,8,01-08-2021,Fetus with unknown complication,Non-Cancer,1
+2021,8,01-08-2021,Fracture of clavicle,Non-Cancer,1
+2021,8,01-08-2021,Hyperlipidemia,Non-Cancer,15
+2021,8,01-08-2021,Normal pregnancy,Non-Cancer,10
+2021,8,01-08-2021,Sinusitis (disorder),Non-Cancer,1
+2021,8,01-08-2021,Unknown,Unknown,166
+2021,8,01-08-2021,Viral sinusitis (disorder),Non-Cancer,4
+2021,9,01-09-2021,Acute bronchitis (disorder),Non-Cancer,2
+2021,9,01-09-2021,Acute viral pharyngitis (disorder),Non-Cancer,5
+2021,9,01-09-2021,Alzheimer's disease (disorder),Non-Cancer,1
+2021,9,01-09-2021,Asthma,Non-Cancer,1
+2021,9,01-09-2021,Breast Cancer,Cancer,12
+2021,9,01-09-2021,Chronic congestive heart failure (disorder),Non-Cancer,37
+2021,9,01-09-2021,Colon Cancer,Cancer,1
+2021,9,01-09-2021,Cystitis,Non-Cancer,1
+2021,9,01-09-2021,Fetus with chromosomal abnormality,Non-Cancer,1
+2021,9,01-09-2021,Fracture of clavicle,Non-Cancer,1
+2021,9,01-09-2021,Fracture subluxation of wrist,Non-Cancer,1
+2021,9,01-09-2021,Hyperlipidemia,Non-Cancer,10
+2021,9,01-09-2021,Normal pregnancy,Non-Cancer,5
+2021,9,01-09-2021,Unknown,Unknown,163
+2021,9,01-09-2021,Viral sinusitis (disorder),Non-Cancer,5
+2021,10,01-10-2021,Acute bronchitis (disorder),Non-Cancer,3
+2021,10,01-10-2021,Acute viral pharyngitis (disorder),Non-Cancer,1
+2021,10,01-10-2021,Alzheimer's disease (disorder),Non-Cancer,1
+2021,10,01-10-2021,Breast Cancer,Cancer,9
+2021,10,01-10-2021,Chronic congestive heart failure (disorder),Non-Cancer,34
+2021,10,01-10-2021,Colon Cancer,Cancer,1
+2021,10,01-10-2021,Fracture of ankle,Non-Cancer,1
+2021,10,01-10-2021,Hyperlipidemia,Non-Cancer,4
+2021,10,01-10-2021,Normal pregnancy,Non-Cancer,10
+2021,10,01-10-2021,Unknown,Unknown,157
+2021,10,01-10-2021,Viral sinusitis (disorder),Non-Cancer,4
+2021,11,01-11-2021,Acute bronchitis (disorder),Non-Cancer,2
+2021,11,01-11-2021,Acute viral pharyngitis (disorder),Non-Cancer,3
+2021,11,01-11-2021,Anemia (disorder),Non-Cancer,4
+2021,11,01-11-2021,Breast Cancer,Cancer,7
+2021,11,01-11-2021,Chronic congestive heart failure (disorder),Non-Cancer,36
+2021,11,01-11-2021,Colon Cancer,Cancer,1
+2021,11,01-11-2021,Concussion with loss of consciousness,Non-Cancer,1
+2021,11,01-11-2021,Cystitis,Non-Cancer,1
+2021,11,01-11-2021,Fracture of ankle,Non-Cancer,1
+2021,11,01-11-2021,Hyperlipidemia,Non-Cancer,17
+2021,11,01-11-2021,Normal pregnancy,Non-Cancer,8
+2021,11,01-11-2021,Unknown,Unknown,180
+2021,11,01-11-2021,Viral sinusitis (disorder),Non-Cancer,6
+2021,12,01-12-2021,Acute bronchitis (disorder),Non-Cancer,1
+2021,12,01-12-2021,Acute viral pharyngitis (disorder),Non-Cancer,1
+2021,12,01-12-2021,Alzheimer's disease (disorder),Non-Cancer,2
+2021,12,01-12-2021,Blighted ovum,Non-Cancer,1
+2021,12,01-12-2021,Breast Cancer,Cancer,1
+2021,12,01-12-2021,Chronic congestive heart failure (disorder),Non-Cancer,48
+2021,12,01-12-2021,Colon Cancer,Cancer,1
+2021,12,01-12-2021,Concussion with no loss of consciousness,Non-Cancer,1
+2021,12,01-12-2021,Drug overdose,Non-Cancer,1
+2021,12,01-12-2021,Hyperlipidemia,Non-Cancer,12
+2021,12,01-12-2021,Normal pregnancy,Non-Cancer,9
+2021,12,01-12-2021,Pneumonia,Non-Cancer,1
+2021,12,01-12-2021,Unknown,Unknown,147
+2021,12,01-12-2021,Viral sinusitis (disorder),Non-Cancer,5
+2022,1,01-01-2022,Acute bronchitis (disorder),Non-Cancer,1
+2022,1,01-01-2022,Acute viral pharyngitis (disorder),Non-Cancer,1
+2022,1,01-01-2022,Alzheimer's disease (disorder),Non-Cancer,1
+2022,1,01-01-2022,Asthma,Non-Cancer,2
+2022,1,01-01-2022,Breast Cancer,Cancer,5
+2022,1,01-01-2022,Chronic congestive heart failure (disorder),Non-Cancer,54
+2022,1,01-01-2022,Colon Cancer,Cancer,1
+2022,1,01-01-2022,Drug overdose,Non-Cancer,1
+2022,1,01-01-2022,Fracture subluxation of wrist,Non-Cancer,1
+2022,1,01-01-2022,Hyperlipidemia,Non-Cancer,5
+2022,1,01-01-2022,Normal pregnancy,Non-Cancer,10
+2022,1,01-01-2022,Unknown,Unknown,129
+2022,1,01-01-2022,Viral sinusitis (disorder),Non-Cancer,8
+2022,2,01-02-2022,Chronic congestive heart failure (disorder),Non-Cancer,1
+2011,1,01-01-2011,Overall,Overall,86
+2011,2,01-02-2011,Overall,Overall,86
+2011,3,01-03-2011,Overall,Overall,129
+2011,4,01-04-2011,Overall,Overall,113
+2011,5,01-05-2011,Overall,Overall,131
+2011,6,01-06-2011,Overall,Overall,131
+2011,7,01-07-2011,Overall,Overall,124
+2011,8,01-08-2011,Overall,Overall,115
+2011,9,01-09-2011,Overall,Overall,124
+2011,10,01-10-2011,Overall,Overall,84
+2011,11,01-11-2011,Overall,Overall,100
+2011,12,01-12-2011,Overall,Overall,113
+2012,1,01-01-2012,Overall,Overall,116
+2012,2,01-02-2012,Overall,Overall,170
+2012,3,01-03-2012,Overall,Overall,183
+2012,4,01-04-2012,Overall,Overall,192
+2012,5,01-05-2012,Overall,Overall,203
+2012,6,01-06-2012,Overall,Overall,175
+2012,7,01-07-2012,Overall,Overall,181
+2012,8,01-08-2012,Overall,Overall,177
+2012,9,01-09-2012,Overall,Overall,176
+2012,10,01-10-2012,Overall,Overall,164
+2012,11,01-11-2012,Overall,Overall,181
+2012,12,01-12-2012,Overall,Overall,188
+2013,1,01-01-2013,Overall,Overall,156
+2013,2,01-02-2013,Overall,Overall,172
+2013,3,01-03-2013,Overall,Overall,240
+2013,4,01-04-2013,Overall,Overall,228
+2013,5,01-05-2013,Overall,Overall,237
+2013,6,01-06-2013,Overall,Overall,246
+2013,7,01-07-2013,Overall,Overall,210
+2013,8,01-08-2013,Overall,Overall,209
+2013,9,01-09-2013,Overall,Overall,188
+2013,10,01-10-2013,Overall,Overall,206
+2013,11,01-11-2013,Overall,Overall,206
+2013,12,01-12-2013,Overall,Overall,197
+2014,1,01-01-2014,Overall,Overall,210
+2014,2,01-02-2014,Overall,Overall,1179
+2014,3,01-03-2014,Overall,Overall,456
+2014,4,01-04-2014,Overall,Overall,220
+2014,5,01-05-2014,Overall,Overall,249
+2014,6,01-06-2014,Overall,Overall,224
+2014,7,01-07-2014,Overall,Overall,197
+2014,8,01-08-2014,Overall,Overall,218
+2014,9,01-09-2014,Overall,Overall,225
+2014,10,01-10-2014,Overall,Overall,232
+2014,11,01-11-2014,Overall,Overall,241
+2014,12,01-12-2014,Overall,Overall,234
+2015,1,01-01-2015,Overall,Overall,210
+2015,2,01-02-2015,Overall,Overall,200
+2015,3,01-03-2015,Overall,Overall,219
+2015,4,01-04-2015,Overall,Overall,199
+2015,5,01-05-2015,Overall,Overall,205
+2015,6,01-06-2015,Overall,Overall,185
+2015,7,01-07-2015,Overall,Overall,195
+2015,8,01-08-2015,Overall,Overall,192
+2015,9,01-09-2015,Overall,Overall,207
+2015,10,01-10-2015,Overall,Overall,202
+2015,11,01-11-2015,Overall,Overall,240
+2015,12,01-12-2015,Overall,Overall,215
+2016,1,01-01-2016,Overall,Overall,196
+2016,2,01-02-2016,Overall,Overall,202
+2016,3,01-03-2016,Overall,Overall,211
+2016,4,01-04-2016,Overall,Overall,198
+2016,5,01-05-2016,Overall,Overall,198
+2016,6,01-06-2016,Overall,Overall,211
+2016,7,01-07-2016,Overall,Overall,186
+2016,8,01-08-2016,Overall,Overall,191
+2016,9,01-09-2016,Overall,Overall,204
+2016,10,01-10-2016,Overall,Overall,213
+2016,11,01-11-2016,Overall,Overall,228
+2016,12,01-12-2016,Overall,Overall,213
+2017,1,01-01-2017,Overall,Overall,187
+2017,2,01-02-2017,Overall,Overall,171
+2017,3,01-03-2017,Overall,Overall,190
+2017,4,01-04-2017,Overall,Overall,185
+2017,5,01-05-2017,Overall,Overall,212
+2017,6,01-06-2017,Overall,Overall,216
+2017,7,01-07-2017,Overall,Overall,209
+2017,8,01-08-2017,Overall,Overall,205
+2017,9,01-09-2017,Overall,Overall,192
+2017,10,01-10-2017,Overall,Overall,186
+2017,11,01-11-2017,Overall,Overall,216
+2017,12,01-12-2017,Overall,Overall,191
+2018,1,01-01-2018,Overall,Overall,189
+2018,2,01-02-2018,Overall,Overall,183
+2018,3,01-03-2018,Overall,Overall,201
+2018,4,01-04-2018,Overall,Overall,180
+2018,5,01-05-2018,Overall,Overall,211
+2018,6,01-06-2018,Overall,Overall,175
+2018,7,01-07-2018,Overall,Overall,177
+2018,8,01-08-2018,Overall,Overall,194
+2018,9,01-09-2018,Overall,Overall,181
+2018,10,01-10-2018,Overall,Overall,174
+2018,11,01-11-2018,Overall,Overall,205
+2018,12,01-12-2018,Overall,Overall,222
+2019,1,01-01-2019,Overall,Overall,209
+2019,2,01-02-2019,Overall,Overall,174
+2019,3,01-03-2019,Overall,Overall,227
+2019,4,01-04-2019,Overall,Overall,177
+2019,5,01-05-2019,Overall,Overall,193
+2019,6,01-06-2019,Overall,Overall,174
+2019,7,01-07-2019,Overall,Overall,207
+2019,8,01-08-2019,Overall,Overall,173
+2019,9,01-09-2019,Overall,Overall,161
+2019,10,01-10-2019,Overall,Overall,169
+2019,11,01-11-2019,Overall,Overall,188
+2019,12,01-12-2019,Overall,Overall,176
+2020,1,01-01-2020,Overall,Overall,176
+2020,2,01-02-2020,Overall,Overall,162
+2020,3,01-03-2020,Overall,Overall,180
+2020,4,01-04-2020,Overall,Overall,199
+2020,5,01-05-2020,Overall,Overall,193
+2020,6,01-06-2020,Overall,Overall,184
+2020,7,01-07-2020,Overall,Overall,233
+2020,8,01-08-2020,Overall,Overall,223
+2020,9,01-09-2020,Overall,Overall,209
+2020,10,01-10-2020,Overall,Overall,232
+2020,11,01-11-2020,Overall,Overall,261
+2020,12,01-12-2020,Overall,Overall,267
+2021,1,01-01-2021,Overall,Overall,263
+2021,2,01-02-2021,Overall,Overall,328
+2021,3,01-03-2021,Overall,Overall,452
+2021,4,01-04-2021,Overall,Overall,421
+2021,5,01-05-2021,Overall,Overall,342
+2021,6,01-06-2021,Overall,Overall,260
+2021,7,01-07-2021,Overall,Overall,263
+2021,8,01-08-2021,Overall,Overall,232
+2021,9,01-09-2021,Overall,Overall,246
+2021,10,01-10-2021,Overall,Overall,225
+2021,11,01-11-2021,Overall,Overall,267
+2021,12,01-12-2021,Overall,Overall,231
+2022,1,01-01-2022,Overall,Overall,219
+2022,2,01-02-2022,Overall,Overall,1

@@ -1,0 +1,59 @@
+Table,Field,Total Rows,Filled Rows,Fill Rate,Description,Data Type
+patients,Id,974,974,100.00%,Primary Key. Unique Identifier of the patient.,VARCHAR
+patients,BIRTHDATE,974,974,100.00%,The date (YYYY-MM-DD) the patient was born.,DATE
+patients,YEAR_OF_BIRTH,974,974,100.00%,Patient's Year of Birth,NUMERIC
+patients,DEATHDATE,974,154,15.81%,The date (YYYY-MM-DD) the patient died.,DATE
+patients,MARITAL,974,973,99.90%,"Marital Status. M is married, S is single. Currently no support for divorce (D) or widowing (W)",VARCHAR
+patients,RACE,974,974,100.00%,Description of the patient's primary race.,VARCHAR
+patients,ETHNICITY,974,974,100.00%,Description of the patient's primary ethnicity.,VARCHAR
+patients,GENDER,974,974,100.00%,"Gender.M is male, F is female.",VARCHAR
+patients,BIRTHPLACE,974,974,100.00%,Name of the town where the patient was born.,VARCHAR
+patients,ADDRESS,974,974,100.00%,Patient's street address without commas or newlines.,VARCHAR
+patients,CITY,974,974,100.00%,Patient's address city.,VARCHAR
+patients,STATE,974,974,100.00%,Patient's address state.,VARCHAR
+patients,COUNTY,974,974,100.00%,Patient's address county.,VARCHAR
+patients,ZIP,974,832,85.42%,Patient's zip code.,NUMERIC
+patients,LAT,974,974,100.00%,Latitude of Patient's address.,NUMERIC
+patients,LON,974,974,100.00%,Longitude of Patient's address.,NUMERIC
+procedures,START,"47,701","47,701",100.00%,The date the procedure was performed.,DATE
+procedures,STOP,"47,701","47,701",100.00%,"The date the procedure was completed, if applicable.",DATE
+procedures,PROC_YEAR,"47,701","47,701",100.00%,Procedure Year,NUMERIC
+procedures,PROC_MONTH,"47,701","47,701",100.00%,Procedure Month,NUMERIC
+procedures,PATIENT,"47,701","47,701",100.00%,Foreign key to the Patient.,VARCHAR
+procedures,ENCOUNTER,"47,701","47,701",100.00%,Foreign key to the Encounter where the procedure was performed.,VARCHAR
+procedures,CODE,"47,701","47,701",100.00%,Procedure code from SNOMED-CT,NUMERIC
+procedures,DESCRIPTION,"47,701","47,701",100.00%,Description of the procedure.,VARCHAR
+procedures,BASE_COST,"47,701","47,701",100.00%,The line item cost of the procedure.,NUMERIC
+procedures,REASONCODE,"47,701","10,756",22.55%,Diagnosis code from SNOMED-CT specifying why this procedure was performed.,NUMERIC
+procedures,REASONDESCRIPTION,"47,701","10,756",22.55%,Description of the reason code.,VARCHAR
+payers,Id,10,10,100.00%,Primary key of the Payer (e.g. Insurance).,VARCHAR
+payers,NAME,10,10,100.00%,Name of the Payer.,VARCHAR
+payers,ADDRESS,10,9,90.00%,Payer's street address without commas or newlines.,VARCHAR
+payers,CITY,10,9,90.00%,Street address city.,VARCHAR
+payers,STATE_HEADQUARTERED,10,9,90.00%,Street address state abbreviation.,VARCHAR
+payers,ZIP,10,9,90.00%,Street address zip or postal code.,NUMERIC
+payers,PHONE,10,9,90.00%,Payer's phone number.,VARCHAR
+organizations,Id,1,1,100.00%,Primary key of the Organization.,VARCHAR
+organizations,NAME,1,1,100.00%,Name of the Organization.,VARCHAR
+organizations,ADDRESS,1,1,100.00%,Organization's street address without commas or newlines.,VARCHAR
+organizations,CITY,1,1,100.00%,Street address city.,VARCHAR
+organizations,STATE,1,1,100.00%,Street address state abbreviation.,VARCHAR
+organizations,ZIP,1,1,100.00%,Street address zip or postal code.,NUMERIC
+organizations,LAT,1,1,100.00%,Latitude of Organization's address.,NUMERIC
+organizations,LON,1,1,100.00%,Longitude of Organization's address.,NUMERIC
+encounters,Id,"27,891","27,891",100.00%,Primary Key. Unique Identifier of the encounter.,VARCHAR
+encounters,START,"27,891","27,891",100.00%,The date the encounter started,DATE
+encounters,STOP,"27,891","27,891",100.00%,The date the encounter concluded,DATE
+encounters,CLAIM_YEAR,"27,891","27,891",100.00%,Encounter Year,NUMERIC
+encounters,CLAIM_MONTH,"27,891","27,891",100.00%,Encounter Month,NUMERIC
+encounters,PATIENT,"27,891","27,891",100.00%,Foreign key to the Patient.,VARCHAR
+encounters,ORGANIZATION,"27,891","27,891",100.00%,Foreign key to the Organization.,VARCHAR
+encounters,PAYER,"27,891","27,891",100.00%,Foreign key to the Payer.,VARCHAR
+encounters,ENCOUNTERCLASS,"27,891","27,891",100.00%,"The class of the encounter, such as ambulatory, emergency, inpatient, wellness, or urgentcare",VARCHAR
+encounters,CODE,"27,891","27,891",100.00%,Encounter code from SNOMED-CT,NUMERIC
+encounters,DESCRIPTION,"27,891","27,891",100.00%,Description of the type of encounter.,VARCHAR
+encounters,BASE_ENCOUNTER_COST,"27,891","27,891",100.00%,"The base cost of the encounter, not including any line item costs related to medications, immunizations, procedures, or other services.",NUMERIC
+encounters,TOTAL_CLAIM_COST,"27,891","27,891",100.00%,"The total cost of the encounter, including all line items.",NUMERIC
+encounters,PAYER_COVERAGE,"27,891","27,891",100.00%,The amount of cost covered by the Payer.,NUMERIC
+encounters,REASONCODE,"27,891","8,350",29.94%,"Diagnosis code from SNOMED-CT, only if this encounter targeted a specific condition.",NUMERIC
+encounters,REASONDESCRIPTION,"27,891","8,350",29.94%,Description of the reason code.,VARCHAR
