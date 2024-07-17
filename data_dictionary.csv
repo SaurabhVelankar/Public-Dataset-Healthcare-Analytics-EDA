@@ -1,0 +1,59 @@
+﻿Table,Field,Description
+patients,Id,Primary Key. Unique Identifier of the patient.
+patients,BIRTHDATE,The date (YYYY-MM-DD) the patient was born.
+patients,YEAR_OF_BIRTH,Patient's Year of Birth
+patients,DEATHDATE,The date (YYYY-MM-DD) the patient died.
+patients,MARITAL,"Marital Status. M is married, S is single. Currently no support for divorce (D) or widowing (W)"
+patients,RACE,Description of the patient's primary race.
+patients,ETHNICITY,Description of the patient's primary ethnicity.
+patients,GENDER,"Gender. M is male, F is female."
+patients,BIRTHPLACE,Name of the town where the patient was born.
+patients,ADDRESS,Patient's street address without commas or newlines.
+patients,CITY,Patient's address city.
+patients,STATE,Patient's address state.
+patients,COUNTY,Patient's address county.
+patients,ZIP,Patient's zip code.
+patients,LAT,Latitude of Patient's address.
+patients,LON,Longitude of Patient's address.
+procedures,START,The date and time (iso8601 UTC Date (yyyy-MM-dd'T'HH:mm'Z')) the procedure was performed.
+procedures,STOP,"The date and time (iso8601 UTC Date (yyyy-MM-dd'T'HH:mm'Z')) the procedure was completed, if applicable."
+procedures,PROC_YEAR,Procedure Year
+procedures,PROC_MONTH,Procedure Month
+procedures,PATIENT,Foreign key to the Patient.
+procedures,ENCOUNTER,Foreign key to the Encounter where the procedure was performed.
+procedures,CODE,Procedure code from SNOMED-CT
+procedures,DESCRIPTION,Description of the procedure.
+procedures,BASE_COST,The line item cost of the procedure.
+procedures,REASONCODE,Diagnosis code from SNOMED-CT specifying why this procedure was performed.
+procedures,REASONDESCRIPTION,Description of the reason code.
+payers,Id,Primary key of the Payer (e.g. Insurance).
+payers,NAME,Name of the Payer.
+payers,ADDRESS,Payer's street address without commas or newlines.
+payers,CITY,Street address city.
+payers,STATE_HEADQUARTERED,Street address state abbreviation.
+payers,ZIP,Street address zip or postal code.
+payers,PHONE,Payer's phone number.
+organizations,Id,Primary key of the Organization.
+organizations,NAME,Name of the Organization.
+organizations,ADDRESS,Organization's street address without commas or newlines.
+organizations,CITY,Street address city.
+organizations,STATE,Street address state abbreviation.
+organizations,ZIP,Street address zip or postal code.
+organizations,LAT,Latitude of Organization's address.
+organizations,LON,Longitude of Organization's address.
+encounters,Id,Primary Key. Unique Identifier of the encounter.
+encounters,START,The date and time (iso8601 UTC Date (yyyy-MM-dd'T'HH:mm'Z')) the encounter started
+encounters,STOP,The date and time (iso8601 UTC Date (yyyy-MM-dd'T'HH:mm'Z')) the encounter concluded
+encounters,CLAIM_YEAR,Encounter Year
+encounters,CLAIM_MONTH,Encounter Month
+encounters,PATIENT,Foreign key to the Patient.
+encounters,ORGANIZATION,Foreign key to the Organization.
+encounters,PAYER,Foreign key to the Payer.
+encounters,ENCOUNTERCLASS,"The class of the encounter, such as ambulatory, emergency, inpatient, wellness, or urgentcare"
+encounters,CODE,Encounter code from SNOMED-CT
+encounters,DESCRIPTION,Description of the type of encounter.
+encounters,BASE_ENCOUNTER_COST,"The base cost of the encounter, not including any line item costs related to medications, immunizations, procedures, or other services."
+encounters,TOTAL_CLAIM_COST,"The total cost of the encounter, including all line items."
+encounters,PAYER_COVERAGE,The amount of cost covered by the Payer.
+encounters,REASONCODE,"Diagnosis code from SNOMED-CT, only if this encounter targeted a specific condition."
+encounters,REASONDESCRIPTION,Description of the reason code.
